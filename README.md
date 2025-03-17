@@ -31,8 +31,8 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| Mamadou | PO         | -   Installation de **UltraVNC** Serveur --> Client  |
-| Florian | SM         | -    Mise en place de la Documentation   |
+| Mamadou | PO         | -    Création Du Backlog |
+| Florian | SM         | -    Mise en place de la Documentation et Organisations des Sprints  |
 | Johnathan | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_  |
 
 
@@ -47,15 +47,33 @@
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
 **Matériel**
+**VM Client :**
+  - Nom : **WIN01**
+  - OS : **Windows 10 Pro**
+  - Compte utilisateur : **Wilder**
+  - Mot de passe : **Azerty1**
+  - IP & Masque : **172.16.10.10 / 255.255.255.0**
 
+
+**VM SERVEUR :**
+  - Nom : **SRVWIN01**
+  - OS : **Windows server 2022**
+  - Compte utilisateur :  **Administrator** / **Wilder**
+  - Mot de passe : **Azerty1**
+  - IP & Masque : **172.16.10.5 / 255.255.255.0**
 **Logiciel**
+- [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) 
+- **Bureau à distance** Win10 Version 10.0.19041.5072 
 
 
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
+- Logiciels inconnus
+- 
 
 # 💡 Solutions trouvées
 <span id="solutions-trouvees"></span>
+- Instruction d'installation et d'utilisation du logiciel [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) via [Youtube](https://www.youtube.com/watch?v=QO-NhJYqR8I)
 
 # 🚀 Améliorations possibles
 <span id="ameliorations-possibles"></span>
