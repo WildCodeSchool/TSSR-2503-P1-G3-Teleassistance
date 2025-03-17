@@ -1,4 +1,4 @@
-![logo de la Wild Code SChool en exemple](Ressources/logo_WCS.jpg)
+![Téléassistance](https://i.pinimg.com/736x/a3/10/ee/a310eec1336087c9735736621aba4c7d.jpg)
 
 ## Sommaire 
 
@@ -12,11 +12,14 @@
 
 # 🎯 Présentation du projet
 <span id="presentation-du-projet"></span>
-**Sujet choisi**
+**La Téléassistance**
 
 **Présentation**
+> Le but du projet est de mettre en place une **_Téléassistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows
 
 **Objectifs finaux**
+- Etablissement d'une connexion entre un _Serveur_ et un _Client_
+- Attribution de droits différents pour chaque logiciels et groupes d'utilisateurs pour le _Serveur_ et le _Client_
 
 
 # 📜 Introduction
@@ -28,19 +31,18 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| membre 1 | PO         | -        |
-| membre 2 | SM         | -        |
-| membre 3 | Technicien | -        |
-| membre 4 | Technicien | -        |
+| Mamadou | PO         | -   Installation de **UltraVNC** Serveur --> Client  |
+| Florian | SM         | -    Mise en place de la Documentation   |
+| Johnathan | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_  |
+
 
 **Sprint 2**
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| membre 1 | Technicien | -        |
-| membre 2 | Technicien | -        |
-| membre 3 | PO         | -        |
-| membre 4 | SM         | -        |
+| Mamadou | Technicien | -   Mise en place du **Bureau à distance** Client --> Serveur    |
+| Florian | Technicien | -        |
+| Johnathan | PO         | -    Mise en place du **Bureau à distance** Client --> Serveur   |
 
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
