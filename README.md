@@ -12,10 +12,10 @@
 
 # 🎯 Présentation du projet
 <span id="presentation-du-projet"></span>
-**La Téléassistance**
+# **La Téléassistance**
 
 **Présentation**
-> Le but du projet est de mettre en place une **_Téléassistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows
+> Le but du projet est de mettre en place une **_Téléassistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows sur un réseau local entre les différentes machines
 
 **Objectifs finaux**
 - Etablissement d'une connexion entre un _Serveur_ et un _Client_
@@ -61,7 +61,9 @@
   - Compte utilisateur :  **Administrator** / **Wilder**
   - Mot de passe : **Azerty1**
   - IP & Masque : **172.16.10.5 / 255.255.255.0**
-**Logiciel**
+
+    
+**Logiciel :**
 - [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) 
 - **Bureau à distance** Win10 Version 10.0.19041.5072 
 
