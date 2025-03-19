@@ -18,6 +18,7 @@
 
 # 2. Installation sur le serveur 
 <span id="installation-sur-le-serveur"></span>
+.
 
 # 3. Installation sur le client
 <span id="installation-sur-le-client"></span>
