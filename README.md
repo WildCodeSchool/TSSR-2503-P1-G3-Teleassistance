@@ -68,8 +68,7 @@
 
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
-- Logiciels inconnus
-- 
+- Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) & **Bureau à distance**
 
 # 💡 Solutions trouvées
 <span id="solutions-trouvees"></span>
