@@ -31,18 +31,18 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| Mamadou | PO         | -    Création Du Backlog |
-| Florian | SM         | -    Mise en place de la Documentation et Organisations des Sprints  |
-| Johnathan | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_  |
+| [Mamadou](https://github.com/DRAME1991) | PO         | -    Création Du Backlog |
+| [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations des Sprints  |
+| [Johnathan](https://github.com/TheHorusLab) | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_  |
 
 
 **Sprint 2**
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| Mamadou  | Technicien | -   Mise en place du **Bureau à distance** Client --> Serveur    |
-| Florian | Technicien | -        |
-| Johnathan | PO         | -    Mise en place du **Bureau à distance** Client --> Serveur   |
+| [Mamadou](https://github.com/DRAME1991)  | Technicien | -   Mise en place du **Bureau à distance** Client --> Serveur    |
+| [Florian](https://github.com/Juverios) | Technicien | -        |
+| [Johnathan](https://github.com/TheHorusLab) | PO         | -    Mise en place du **Bureau à distance** Client --> Serveur   |
 
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
