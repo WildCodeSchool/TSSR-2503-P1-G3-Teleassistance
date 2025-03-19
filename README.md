@@ -9,7 +9,7 @@
 - [🧗Difficultés rencontrées](#difficultes-rencontrees)
 - [💡 Solutions trouvées](#solutions-trouvees)
 - [🚀 Améliorations possibles](#ameliorations-possibles)
-
+  
 # 🎯 Présentation du projet
 <span id="presentation-du-projet"></span>
 # **La Téléassistance**
@@ -40,7 +40,7 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| Mamadou | Technicien | -   Mise en place du **Bureau à distance** Client --> Serveur    |
+| Mamadou  | Technicien | -   Mise en place du **Bureau à distance** Client --> Serveur    |
 | Florian | Technicien | -        |
 | Johnathan | PO         | -    Mise en place du **Bureau à distance** Client --> Serveur   |
 
@@ -66,11 +66,11 @@
 **Logiciel :**
 - [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) 
 - **Bureau à distance** Win10 Version 10.0.19041.5072 
-
+- [**Oracle VirtualBox 7.1.6**](https://www.virtualbox.org/wiki/Downloads) / [**VirtualBox Extension pack**](https://www.virtualbox.org/wiki/Downloads)
 
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
-- Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) & **Bureau à distance**
+- Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) 
 
 # 💡 Solutions trouvées
 <span id="solutions-trouvees"></span>
