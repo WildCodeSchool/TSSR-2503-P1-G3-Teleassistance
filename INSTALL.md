@@ -19,7 +19,7 @@
 <span id="installation-sur-le-serveur"></span>
 
 
-  **Renommer son PC**</br>
+  **RENOMMER SON PC**</br>
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche: </br>
 
 <img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
