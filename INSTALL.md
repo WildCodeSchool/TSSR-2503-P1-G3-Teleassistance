@@ -22,21 +22,22 @@
   **Renommer son PC**</br>
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche: </br>
 
-![Etape 1](https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9)
+<img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
 
 **ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ) </br>
 
-![Etape 2](https://github.com/user-attachments/assets/9f654c7f-8dfc-4de0-9060-22c42fc27c57)
+<img src="https://github.com/user-attachments/assets/9f654c7f-8dfc-4de0-9060-22c42fc27c57" width="600" height="400">
 
 **Etape 2** : Une nouvelle fênetre s'ouvre, cliquez sur le bouton "change" :
 
-![Etape 3](https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a)
+<img src="https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a" width="600" height="400">
 
 **Etape 3** : Dans "Computer Name" taper le nouveau nom du PC (ex: SRVWIN01)
 
-![Etape 4](https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4)
+<img src="https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4" width="600" height="400">
+
 **Etape 4** : Cliquez sur le bouton OK,un message s'affiche pour vous indiquer qu'il faut redémarrer le PC pour que le nom soit prit en compte
-![Etape 5](https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b)
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
 
 
 # 3. Installation sur le client
