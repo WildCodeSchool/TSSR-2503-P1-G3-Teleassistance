@@ -31,8 +31,8 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| [Mamadou](https://github.com/DRAME1991) | PO         | -    Création Du Backlog |
-| [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations des Sprints - Paramétrage **Bureau à distance**  |
+| [Mamadou](https://github.com/DRAME1991) | PO         | -    Création Du Backlog - Organisation de la première présentation |
+| [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations des Sprints - Gestion des droits d'accès d'utilisateurs  |
 | [Johnathan](https://github.com/TheHorusLab) | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_ - Paramétrage **UltraVNC** |
 
 
@@ -40,9 +40,9 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| [Mamadou](https://github.com/DRAME1991)  | Technicien | -      |
-| [Florian](https://github.com/Juverios) | Technicien | -        |
-| [Johnathan](https://github.com/TheHorusLab) | PO         | -       |
+| [Mamadou](https://github.com/DRAME1991)  | Technicien | -  Paramétrage Bureau à distance  - Gestion des droits d'accès d'utilisateurs |
+| [Florian](https://github.com/Juverios) | Technicien | -     Paramétrage Bureau à distance - Gestion des droits d'accès d'utilisateurs  |
+| [Johnathan](https://github.com/TheHorusLab) | PO         | - Paramétrage Bureau à distance  - Gestion des droits d'accès d'utilisateurs     |
 
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
