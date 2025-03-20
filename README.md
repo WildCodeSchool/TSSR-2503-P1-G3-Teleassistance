@@ -18,7 +18,7 @@
 > Le but du projet est de mettre en place une **_Téléassistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows sur un réseau local entre les différentes machines
 
 **Objectifs finaux**
-- Etablissement d'une connexion entre un _Serveur_ et un _Client_
+- Etablissement d'une connexion Local entre 2 machines virtuelles, un _Serveur_ et un _Client_.
 - Attribution de droits différents pour chaque logiciels et groupes d'utilisateurs pour le _Serveur_ et le _Client_
 
 
