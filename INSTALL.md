@@ -19,12 +19,12 @@
 <span id="installation-sur-le-serveur"></span>
 
 
-  **RENOMMER SON PC**</br>
-Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche: </br>
+  **RENOMMER SON PC**  
+Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
 <img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
 
-**ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ) </br>
+**ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
 
 <img src="https://github.com/user-attachments/assets/9f654c7f-8dfc-4de0-9060-22c42fc27c57" width="600" height="400">
 
