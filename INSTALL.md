@@ -3,6 +3,7 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)
+   b. [Configuration réseau](#configuration_reseau)
 4. [Installation sur le client](#installation-sur-le-client)
 5. [FAQ](#faq)
 
@@ -20,7 +21,7 @@
 <span id="installation-sur-le-serveur"></span>
 
 <span id="renommer_le_pc"></span>
-  **RENOMMER SON PC**  
+  **A. RENOMMER SON PC**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
 <img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
@@ -39,6 +40,17 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 4** : Cliquez sur le bouton OK,un message s'affiche pour vous indiquer qu'il faut redémarrer le PC pour que le nom soit prit en compte
 <img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+<span id="installation-sur-le-serveur"></span>
+
+<span id="configuration_reseau"></span>
+  **B. CONFIGURATION RESEAU**  
+Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
+
+<img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
+
+**ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
+
 
 
 # 3. Installation sur le client
