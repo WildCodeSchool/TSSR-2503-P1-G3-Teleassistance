@@ -41,7 +41,8 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 **Etape 4** : Cliquez sur le bouton OK,un message s'affiche pour vous indiquer qu'il faut redémarrer le PC pour que le nom soit prit en compte
 <img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
 
-[click on this link](#configuration_reseau)
+exemple a tester pour rediriger un lien:
+[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
 
 #configuration_reseau
 
