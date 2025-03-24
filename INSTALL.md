@@ -3,7 +3,7 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)  
-   b. [Configuration réseau](#configuration_reseau)
+   b. [Configuration réseau][jumping to](#configuration_reseau)
 4. [Installation sur le client](#installation-sur-le-client)
 5. [FAQ](#faq)
 
@@ -47,7 +47,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
   **B. CONFIGURATION RESEAU**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
-![Screenshot](configuration_reseau)
+{#configuration_reseau}
 
 **ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
 
