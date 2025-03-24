@@ -47,7 +47,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
   **B. CONFIGURATION RESEAU**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
-<img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
+![Screenshot](#configuration_reseau)
 
 **ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
 
