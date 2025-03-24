@@ -2,8 +2,9 @@
 
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)
-3. [Installation sur le client](#installation-sur-le-client)
-4. [FAQ](#faq)
+   a. [Renommer le pc](#renommer_le_pc)
+4. [Installation sur le client](#installation-sur-le-client)
+5. [FAQ](#faq)
 
 
 # **Projet Réalisé sur machines virtuelles**        
@@ -18,7 +19,7 @@
 # 2. Installation sur le serveur 
 <span id="installation-sur-le-serveur"></span>
 
-
+<span id="renommer_le_pc"></span>
   **RENOMMER SON PC**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
