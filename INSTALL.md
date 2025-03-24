@@ -42,6 +42,6 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 # 3. Installation sur le client
 <span id="installation-sur-le-client"></span>
-
+Ceci est un test
 # 4. FAQ
 <span id="faq"></span>        
