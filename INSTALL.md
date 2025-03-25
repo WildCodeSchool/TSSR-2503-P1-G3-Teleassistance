@@ -3,9 +3,17 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)  
-   b. [Configuration réseau](#configuration_reseau)
+   b. [Configuration réseau](#configuration_reseau_serveur)
+   c. [Installation Ultra VNC](#installation_ultra_vnc_server)
+   d. [Désactivation du pare-feu](#desactivation_du_pare_feu_serveur)
+   e. [Droits d'accès](#droits_acces_serveur)
 4. [Installation sur le client](#installation-sur-le-client)
-5. [FAQ](#faq)
+   a. [Réseau VirtualBox](#virtualbox_reseau)
+   b. [Configuration réseau](#configuration_reseau_client)
+   c. [Installation Ultra VNC](#installation_ultra_vnc_client)
+   d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)
+   e. [Droits d'accès](#droits_acces_client)
+6. [FAQ](#faq)
 
 
 # **Projet Réalisé sur machines virtuelles**        
@@ -44,11 +52,26 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 <span id="configuration_reseau"></span>
   **B. CONFIGURATION RESEAU**  
-Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
+Sur le bureau, dans la barre de recherche de la barre du menu, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
 
-
+<img src="Ressources/VM_WSRWIN01/1-renommer_le_pc/etape_01.png" width="600" height="400">
 
 **ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
+
+<img src="https://github.com/user-attachments/assets/9f654c7f-8dfc-4de0-9060-22c42fc27c57" width="600" height="400">
+
+**Etape 2** : Une nouvelle fênetre s'ouvre, cliquez sur le bouton "change" :
+
+<img src="https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a" width="600" height="400">
+
+**Etape 3** : Dans "Computer Name" taper le nouveau nom du PC (ex: SRVWIN01)
+
+<img src="https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4" width="600" height="400">
+
+**Etape 4** : Cliquez sur le bouton OK,un message s'affiche pour vous indiquer qu'il faut redémarrer le PC pour que le nom soit prit en compte
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+
 
 
 
