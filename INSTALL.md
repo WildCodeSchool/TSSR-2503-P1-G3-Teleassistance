@@ -60,7 +60,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 1** : Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:    
 
-<img src="Ressources/VM_WSRWIN01/1-renommer_le_pc/etape_01.png" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/3649b699-7516-400a-aad9-8001bf936266" width="600" height="400">
 
 **Etape 2** : La fenêtre du Dashboad s'affiche, dans le menu à gauche cliquez sur "Local Server" :
 
