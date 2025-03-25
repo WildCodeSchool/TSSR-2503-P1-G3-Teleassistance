@@ -54,11 +54,11 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
   **B. CONFIGURATION RESEAU**  
 Sur le bureau, dans la barre de recherche de la barre du menu, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
 
-<img src="Ressources/VM_WSRWIN01/1-renommer_le_pc/etape_01.png" width="600" height="400">
+<img src="Ressources/VM_WSRWIN01/2-configuration_reseau_pc_server/etape_01.png" width="600" height="400">
 
 **ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
 
-<img src="https://github.com/user-attachments/assets/9f654c7f-8dfc-4de0-9060-22c42fc27c57" width="600" height="400">
+<img src="Ressources/VM_WSRWIN01/1-renommer_le_pc/etape_01.png" width="600" height="400">
 
 **Etape 2** : Une nouvelle fênetre s'ouvre, cliquez sur le bouton "change" :
 
