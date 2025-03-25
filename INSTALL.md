@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0468f1f8-1376-4080-80ab-bf76cc3e3949)## Sommaire
+## Sommaire
 
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
