@@ -136,34 +136,34 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 10** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
 <img src="https://github.com/user-attachments/assets/b2dc52ec-e958-4724-8b81-a1b998b274dd" width="600" height="400">  
 
-**Etape 11** : Une fenêtre s'ouvre avec votre exécutable
+**Etape 11** : Une fenêtre s'ouvre avec votre exécutable  
 <img src="https://github.com/user-attachments/assets/6aab6c72-fcf5-4e93-850d-2c9ff5e94adc" width="600" height="400">  
 
-**Etape 12** : Faites un clic droit dessus et cliquez sur "Run as administrator"
+**Etape 12** : Faites un clic droit dessus et cliquez sur "Run as administrator"  
 <img src="https://github.com/user-attachments/assets/a0bee6d3-2172-4f1a-8338-a39ffc2fb493" width="600" height="400">  
 
-**Etape 13** : Cliquez sur OK
+**Etape 13** : Cliquez sur OK  
 <img src="https://github.com/user-attachments/assets/9f800f87-eabc-4186-a72c-14074dae8198" width="600" height="400">  
 
-**Etape 14** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"
+**Etape 14** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/791edb90-e35f-4b01-ad23-2750d54fddea" width="600" height="400">  
 
-**Etape 15** : Cliquez sur Next
+**Etape 15** : Cliquez sur Next  
 <img src="https://github.com/user-attachments/assets/213fd4e6-1d35-4cff-add6-4e82f96760da" width="600" height="400">  
 
-**Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"
+**Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/1404779c-7682-4d0e-a3e7-20efba772391" width="600" height="400">  
 
-**Etape 17** : Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"
+**Etape 17** : Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/52cb97b0-625d-48c9-ac02-61e8376d5d64" width="600" height="400">  
 
-**Etape 18** : Cliquez sur "Install"
+**Etape 18** : Cliquez sur "Install"  
 <img src="https://github.com/user-attachments/assets/e4788497-71b2-4669-8032-13c4321d9a31" width="600" height="400">  
 
-**Etape 19** : Cliquez sur "Next"
+**Etape 19** : Cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/c286c3f1-ed63-4764-9475-de3ff04cab15" width="600" height="400">  
 
-**Etape 20** : Cliquez sur "Finish"
+**Etape 20** : Cliquez sur "Finish"  
 <img src="https://github.com/user-attachments/assets/d69b28eb-745c-4eda-a9ef-6f1df44d95c4" width="600" height="400">  
 
    **d. Désactivation du pare-feu**  
