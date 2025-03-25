@@ -28,8 +28,9 @@
 # 2. Installation sur le serveur 
 <span id="installation-sur-le-serveur"></span>
 
+
+   **a. Renommer son PC**  
 <span id="renommer_le_pc"></span>
-  **A. RENOMMER SON PC**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
 <img src="https://github.com/user-attachments/assets/0684b79d-9733-4014-9ed8-b77793043ef9" width="600" height="400">
@@ -50,13 +51,14 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 <img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
 
 
-<span id="configuration_reseau_serveur"></span>
-  **B. CONFIGURATION RESEAU**  
+
+   **b. Configuration Réseau**  
+<span id="configuration_reseau_serveur"></span>  
 Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
 
 <img src="Ressources/VM_WSRWIN01/2-configuration_reseau_pc_server/etape_01.png" width="600" height="400">
 
-**ETAPE 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
+**Etape 1** : Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)  
 
 <img src="Ressources/VM_WSRWIN01/1-renommer_le_pc/etape_01.png" width="600" height="400">
 
@@ -75,8 +77,48 @@ Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez
 
 
 
-# 3. Installation sur le client
-<span id="installation-sur-le-client"></span>
+   **c. Installation ULTRA VNC**  
+<span id="installation_ultra_vnc_server"></span>  
+
+
+
+   **d. Désactivation du pare-feu**  
+<span id="desactivation_du_pare_feu_serveur"></span>  
+
+
+   **e. Droits d' accès**  
+<span id="droits_acces_serveur"></span>  
+
+
+
+# 3. Installation sur le client  
+<span id="installation-sur-le-client"></span>  
+
+
+   **a. Réseau VirtualBox** 
+<span id="virtualbox_reseau"></span>
+
+
+
+   **b. Configuration Réseau** 
+<span id="virtualbox_reseau"></span>
+
+
+
+   **c. Installation Ultra VNC** 
+<span id="installation_ultra_vnc_client"></span>
+
+
+
+   **d. Désactivation du pare-feu** 
+<span id="desactivation_du_pare_feu_client"></span>
+
+
+
+   **e. Droits d' accès** 
+<span id="droits_acces_client"></span>
+
+
 
 # 4. FAQ
 <span id="faq"></span>        
