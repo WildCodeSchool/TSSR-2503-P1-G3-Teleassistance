@@ -52,7 +52,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 <span id="configuration_reseau_serveur"></span>
   **B. CONFIGURATION RESEAU**  
-Sur le bureau, dans la barre de recherche de la barre du menu, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
+Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
 
 <img src="Ressources/VM_WSRWIN01/2-configuration_reseau_pc_server/etape_01.png" width="600" height="400">
 
