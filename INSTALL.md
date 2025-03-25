@@ -96,62 +96,75 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com) :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/b6146973-dabb-4412-b4cf-75201005a19b" width="600" height="400">
 
 
 **Etape 2** : Vous arrivez sur la page d'accueil du site :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/b5d4d41c-bd01-40e9-a03e-93980b531d7d" width="600" height="400">
 
 
 **Etape 3** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)  :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e59a612b-1689-497b-86d6-6e40fdb74a28" width="600" height="400">
 
 **Etape 4** : Vous arrivez sur une nouvelle page de téléchargement de la version 1.4.3.6  :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/87be99f6-8096-4cd0-b4f3-0563ef5ffbfd" width="600" height="400">
 
 **Etape 5** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e645fc83-d98e-4432-9620-11c900d14f95" width="600" height="400">
 
 **Etape 6** : Vous arrivez sur une nouvelle page :
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/d0a6d84c-efbe-46bb-a3fa-997e88782160" width="600" height="400">
 
 **Etape 7** : Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
 Pour connaître l'architecture de votre PC, allez dans le panneau de configuration...................
 
+<img src="https://github.com/user-attachments/assets/1a39e9e3-e34b-4e8d-86fa-5eb45f0aebd4" width="600" height="400">
 
 
 **Etape 8** : Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.
-
+<img src="https://github.com/user-attachments/assets/aaec19fa-f246-482c-8a6c-a1db43f99064" width="600" height="400">
 
 **Etape 9** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
+<img src="https://github.com/user-attachments/assets/0fdaca98-0afa-4ac0-823a-7ae82efabb94" width="600" height="400">  
 
 **Etape 10** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
+<img src="https://github.com/user-attachments/assets/b2dc52ec-e958-4724-8b81-a1b998b274dd" width="600" height="400">  
 
 **Etape 11** : Une fenêtre s'ouvre avec votre exécutable
+<img src="https://github.com/user-attachments/assets/6aab6c72-fcf5-4e93-850d-2c9ff5e94adc" width="600" height="400">  
 
 **Etape 12** : Faites un clic droit dessus et cliquez sur "Run as administrator"
+<img src="https://github.com/user-attachments/assets/a0bee6d3-2172-4f1a-8338-a39ffc2fb493" width="600" height="400">  
 
 **Etape 13** : Cliquez sur OK
+<img src="https://github.com/user-attachments/assets/9f800f87-eabc-4186-a72c-14074dae8198" width="600" height="400">  
 
 **Etape 14** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"
+<img src="https://github.com/user-attachments/assets/791edb90-e35f-4b01-ad23-2750d54fddea" width="600" height="400">  
 
 **Etape 15** : Cliquez sur Next
+<img src="https://github.com/user-attachments/assets/213fd4e6-1d35-4cff-add6-4e82f96760da" width="600" height="400">  
 
 **Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"
+<img src="https://github.com/user-attachments/assets/1404779c-7682-4d0e-a3e7-20efba772391" width="600" height="400">  
 
 **Etape 17** : Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"
+<img src="https://github.com/user-attachments/assets/52cb97b0-625d-48c9-ac02-61e8376d5d64" width="600" height="400">  
 
 **Etape 18** : Cliquez sur "Install"
+<img src="https://github.com/user-attachments/assets/e4788497-71b2-4669-8032-13c4321d9a31" width="600" height="400">  
 
 **Etape 19** : Cliquez sur "Next"
+<img src="https://github.com/user-attachments/assets/c286c3f1-ed63-4764-9475-de3ff04cab15" width="600" height="400">  
 
 **Etape 20** : Cliquez sur "Finish"
+<img src="https://github.com/user-attachments/assets/d69b28eb-745c-4eda-a9ef-6f1df44d95c4" width="600" height="400">  
 
    **d. Désactivation du pare-feu**  
 <span id="desactivation_du_pare_feu_serveur"></span>  
