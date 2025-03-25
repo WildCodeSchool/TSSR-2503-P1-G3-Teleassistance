@@ -1,4 +1,4 @@
-## Sommaire
+![image](https://github.com/user-attachments/assets/0468f1f8-1376-4080-80ab-bf76cc3e3949)## Sommaire
 
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
@@ -275,34 +275,63 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 
         1. Adressage réseau
 <span id="adressage_reseau"></span> 
-**Etape 1** : Vous pouvez lancer votre machine virtuelle  
+**Etape 1** : En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
 <img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
 
-**Etape 2** : Vous pouvez lancer votre machine virtuelle  
+**Etape 2** : Cliquez sur "Paramètres du réseau ete internet"  
 <img src="https://github.com/user-attachments/assets/37807f5c-02b0-4089-be3f-19eed16c5a06" width="600" height="400">
 
-**Etape 3** : Vous pouvez lancer votre machine virtuelle  
+**Etape 3** : Une nouvelle fenêtre "Etat, statu du réseau" s'ouvre  
 <img src="https://github.com/user-attachments/assets/0a3374c1-231f-4ed0-938c-14971adb6582" width="600" height="400">
 
-**Etape 4** : Vous pouvez lancer votre machine virtuelle  
+**Etape 4** : Descendez jusqu'aux "Paramètres réseau avancés", puis cliquez sur "Modifier les options d'adaptateur"  
 <img src="https://github.com/user-attachments/assets/f833bdc5-c6a6-4a48-b0e4-dc4723772a5a" width="600" height="400">
 
-**Etape 5** : Vous pouvez lancer votre machine virtuelle  
+**Etape 5** : Une nouvelle fenêtre "connexion réseau" s'affiche  
 <img src="https://github.com/user-attachments/assets/cda09895-ea8c-46fd-81ae-74d72f60f2d8" width="600" height="400">
 
-**Etape 6** : Vous pouvez lancer votre machine virtuelle  
-<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
+**Etape 6** : Faites un clic droit sur "Ethernet 2", puis cliquez sur "Propriétés"  
+<img src="https://github.com/user-attachments/assets/10e13df6-4128-4c3a-affb-b62a4e9e752d" width="600" height="400">
 
-**Etape 7** : Vous pouvez lancer votre machine virtuelle  
-<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
+**Etape 7** : Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Propriétés"  
+<img src="https://github.com/user-attachments/assets/19f49358-c22c-4a1d-8c41-079e1cbd51ce" width="600" height="400">
 
-**Etape 8** : Vous pouvez lancer votre machine virtuelle  
-<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
+**Etape 8** : Une nouvelle fenêtre s'ouvre, séléctionnez "Utiliser l'adresse IP suivante" et notez pour "Adresse IP": 172.16.10.10, puis dans Masque de sous-réseau : 255.255.255.0 , puis cliquez sur "OK" pour valider :   
+<img src="https://github.com/user-attachments/assets/d6b55b86-41e4-4a38-bc54-680035ecd750" width="600" height="400">
 
 
        2. Liaison nom et adresse IP
 <span id="liaison_nom_adresse_ip"></span> 
 
+**Etape 1** : Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
+<img src="https://github.com/user-attachments/assets/11a86726-dc7d-41ac-9066-c17a6b4aa840" width="600" height="400">
+
+**Etape 2** : Double cliquez sur votre Disque local (C:)
+<img src="https://github.com/user-attachments/assets/92ff2f4d-5442-49f8-b6e0-05b9ab3ccece" width="600" height="400">
+
+**Etape 3** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/010fb725-00f5-4ee8-80fb-b69a52611525" width="600" height="400">
+
+**Etape 4** : Allez dans le dossier "System32"  
+<img src="https://github.com/user-attachments/assets/a44ff4c5-95c4-4d05-95c8-61e64587c09f" width="600" height="400">
+
+**Etape 5** : Allez dans le dossier "drivers"  
+<img src="https://github.com/user-attachments/assets/47d5cff4-1482-4a51-83e9-2f4f2c08e559" width="600" height="400">
+
+**Etape 6** : Allez dans le dossier "etc"  
+<img src="https://github.com/user-attachments/assets/1eb6a204-d189-42b1-8f32-ac9bc7a6caa6" width="600" height="400">
+
+**Etape 7** : Dans la liste des fichiers, trouvez le fichier "hosts"  
+<img src="https://github.com/user-attachments/assets/36166d97-8497-4ead-8977-519ad49dbd05" width="600" height="400">
+
+**Etape 8** : Faites un clic droit sur le fichier "hosts"  
+<img src="https://github.com/user-attachments/assets/22d8fc0d-bb2f-41ba-a937-838cef9ce250" width="600" height="400">
+
+**Etape 9** : Ouvrez le fichier avec un bloc note  
+<img src="https://github.com/user-attachments/assets/35ea58b0-da93-4dd8-ae0f-4dd8703c90df" width="600" height="400">
+
+**Etape 10** : Tout en bas du fichier, notez l'adresse IP de la machine server (dans l'exemple : 172.16.10.5), appuyer la touche TAB (tabulation) et notez le nom de la machine (dans l'exemple : SRVWIN01)  
+<img src="https://github.com/user-attachments/assets/c88904ca-763b-4c33-8404-96cb35643399" width="600" height="400">
 
 
 
