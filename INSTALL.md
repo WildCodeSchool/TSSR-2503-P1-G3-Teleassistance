@@ -50,7 +50,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 <img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
 
 
-<span id="configuration_reseau"></span>
+<span id="configuration_reseau_serveur"></span>
   **B. CONFIGURATION RESEAU**  
 Sur le bureau, dans la barre de recherche de la barre du menu, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:  
 
