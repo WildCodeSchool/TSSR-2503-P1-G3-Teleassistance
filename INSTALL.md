@@ -92,6 +92,61 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
    **c. Installation ULTRA VNC**  
 <span id="installation_ultra_vnc_server"></span>  
 
+**Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com) :  
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+
+**Etape 2** : Vous arrivez sur la page d'accueil du site :  
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+
+**Etape 3** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)  :  
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+**Etape 4** : Vous arrivez sur une nouvelle page de téléchargement de la version 1.4.3.6  :  
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+**Etape 5** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :  
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+**Etape 6** : Vous arrivez sur une nouvelle page :
+
+<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+
+**Etape 7** : Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
+Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
+Pour connaître l'architecture de votre PC, allez dans le panneau de configuration...................
+
+
+
+**Etape 8** : Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.
+
+
+**Etape 9** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
+
+**Etape 10** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
+
+**Etape 11** : Une fenêtre s'ouvre avec votre exécutable
+
+**Etape 12** : Faites un clic droit dessus et cliquez sur "Run as administrator"
+
+**Etape 13** : Cliquez sur OK
+
+**Etape 14** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"
+
+**Etape 15** : Cliquez sur Next
+
+
+
+
+
+
+
 
 
    **d. Désactivation du pare-feu**  
