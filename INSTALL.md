@@ -43,7 +43,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 
 
-(#reseau_id)
+(id="#reseau")
   **B. CONFIGURATION RESEAU**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
