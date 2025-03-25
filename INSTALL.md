@@ -7,7 +7,7 @@
    c. [Installation Ultra VNC](#installation_ultra_vnc_server)  
    d. [Désactivation du pare-feu](#desactivation_du_pare_feu_serveur)  
    e. [Droits d'accès](#droits_acces_serveur)  
-4. [Installation sur le client](#installation-sur-le-client)  
+3. [Installation sur le client](#installation-sur-le-client)  
    a. [Réseau VirtualBox](#virtualbox_reseau)  
    b. [Configuration réseau](#configuration_reseau_client)  
       1. [Adressage réseau](#adressage_reseau)  
@@ -15,7 +15,7 @@
    c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
    d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
    e. [Droits d'accès](#droits_acces_client)  
-6. [FAQ](#faq)
+4. [FAQ](#faq)
 
 
 # **Projet Réalisé sur machines virtuelles**        
