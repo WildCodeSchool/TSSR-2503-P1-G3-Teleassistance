@@ -3,7 +3,7 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)  
-   b. Configuration réseau
+   b. [Configuration réseau](#reseau)
 4. [Installation sur le client](#installation-sur-le-client)
 5. [FAQ](#faq)
 
@@ -43,7 +43,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 
 
-
+(#reseau)
   **B. CONFIGURATION RESEAU**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
 
