@@ -3,7 +3,7 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)  
-   b. [Configuration réseau](#configuration_reseau)
+   b. [Configuration réseau](#b-configuration-reseau)
 4. [Installation sur le client](#installation-sur-le-client)
 5. [FAQ](#faq)
 
