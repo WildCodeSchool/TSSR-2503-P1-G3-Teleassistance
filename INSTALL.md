@@ -1,4 +1,4 @@
-## Sommaire
+![image](https://github.com/user-attachments/assets/131adb05-00b2-40e3-847d-6d97585a905b)## Sommaire
 
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
@@ -64,15 +64,15 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 2** : La fenêtre du Dashboad s'affiche, dans le menu à gauche cliquez sur "Local Server" :
 
-<img src="https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e148995a-660e-4d62-935e-a6f37fce0033" width="600" height="400">
 
 **Etape 3** : Cliquez ensuite sur l'adresse IP (lien en bleu) de l'ethernet 2 :
 
-<img src="https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/00a41860-3262-449a-80fd-a9bd7621dbf4" width="600" height="400">
 
 **Etape 4** : Une nouvelle fenêtre s'affiche avec vos connexions réseaux :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/a3b614e1-dcb4-4cab-b8bd-a83c16aa851e" width="600" height="400">
 
 **Etape 5** : Faites un clic droit sur l'icône "Ethernet 2" :  
 
