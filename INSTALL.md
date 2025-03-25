@@ -169,59 +169,75 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **d. Désactivation du pare-feu**  
 <span id="desactivation_du_pare_feu_serveur"></span>  
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"  
+<img src="https://github.com/user-attachments/assets/06937f9e-e52e-4d5f-b86d-1129b0a0ad09" width="600" height="400">
 
+**Etape 2** : Une nouvuelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"  
+<img src="https://github.com/user-attachments/assets/bf8fcfa7-fad4-410e-9545-f37e746f5897" width="600" height="400">
 
-**Etape 2** : Une novuelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"
+**Etape 3** : Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"  
+<img src="https://github.com/user-attachments/assets/77a7282e-bae7-423b-b58e-866e08ca3081" width="600" height="400">
 
-**Etape 3** : Une novuelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"
+**Etape 4** : Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"  
+<img src="https://github.com/user-attachments/assets/a79c713c-3f7e-4d0d-a59b-072f735e3790" width="600" height="400">  
 
-**Etape 4** : Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"
-
-**Etape 5** : Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"
+**Etape 5** : Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"  
+<img src="https://github.com/user-attachments/assets/242e478d-178e-48a2-b2b7-07c1a6c12c0e" width="600" height="400">
 
 
    **e. Droits d' accès**  
 <span id="droits_acces_serveur"></span>  
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"  
+<img src="https://github.com/user-attachments/assets/da853e0d-7dc5-4a0e-afdc-ef4b3dbb791e" width="600" height="400">  
 
-**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts"
+**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts"  
+<img src="https://github.com/user-attachments/assets/2d0941c8-c6df-4cff-9875-3b6b4c10e3ac" width="600" height="400">  
 
-**Etape 3** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"
+**Etape 3** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"  
+<img src="https://github.com/user-attachments/assets/720942f8-f83d-4c99-93b3-d7d2ef521e13" width="600" height="400">  
 
-**Etape 4** : Dans le menu à gauche, cliquez sur " Other users"
+**Etape 4** : Dans le menu à gauche, cliquez sur " Other users"  
+<img src="https://github.com/user-attachments/assets/d8fe9ee7-9a65-4ed4-a6bf-5344a1295473" width="600" height="400">  
+
+**Etape 5** : Cliquez sur l'utilisateur (dans l'exemple : Wilder) et cliquez sur "Change account type"  
+<img src="https://github.com/user-attachments/assets/806e5697-f708-4e2a-83d0-adf8b89b0058" width="600" height="400">  
+
+**Etape 6** : Dans "Account type" sélectionnez "Standard User"  
+<img src="https://github.com/user-attachments/assets/cccd9b88-d3fa-4177-ad92-f8dcf004a555" width="600" height="400">  
+
+**Etape 7** : Cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/148c9cd0-d35d-4746-aee8-8aed24469d95" width="600" height="400">  
+
+**Etape 8** : L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.  
+<img src="https://github.com/user-attachments/assets/1e353067-96dd-4803-b9b6-2b94d685cdd5" width="600" height="400">  
+
+**Etape 9** : Sur le bureau, dans la barre du menu, cliquez sur l'icône de la fenêtre Windows tout en bas à gauche et cliquez sur "Change account settings"  
+<img src="https://github.com/user-attachments/assets/08b306d7-fa23-48f7-938d-5dd4b0316d0b" width="600" height="400">  
+
+**Etape 10** : Séléctionnez "Wilder", puis entrez votre mot de passe (par défaut : Azerty1*)  
+<img src="https://github.com/user-attachments/assets/5eb8bf66-0090-4113-8d0a-93fb477cc119" width="600" height="400">  
+
+**Etape 11** : Sur le bureau, dans la barre de recherche, tapez "Ultra" et cliquez sur l'icône de l'application "UltraVNC Viewer"  
+<img src="https://github.com/user-attachments/assets/ab7970b4-75c3-4c9c-9d7a-6d2c2f0cd262" width="600" height="400">
+
+**Etape 12** : L'application s'ouvre  
+<img src="https://github.com/user-attachments/assets/8b1edd64-5b35-4780-9fe0-899084da195a" width="600" height="400">
+
+**Etape 13** : Entrez l'adresse IP du PC client (ici: 172.16.10.10)  
+<img src="https://github.com/user-attachments/assets/d18a21fd-83f6-4d71-97e5-e87b67fe5b5e" width="600" height="400">  
+
+**Etape 14** : Cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/43751ee2-8a64-428b-9d66-e0239cdc428e" width="600" height="400">
+
+**Etape 15** : Cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/5eb8bf66-0090-4113-8d0a-93fb477cc119" width="600" height="400">
+
+**Etape 16** : Cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/5eb8bf66-0090-4113-8d0a-93fb477cc119" width="600" height="400">
 
 
-**Etape 5** : Cliquez sur l'utilisateur (dans l'exemple : Wilder) et cliquez sur "Change account type"
-
-
-**Etape 6** : Dans "Account type" sélectionnez "Standard User"
-
-
-**Etape 7** : Cliquez sur le bouton "OK"
-
-**Etape 8** : L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.
-
-**Etape 9** : Sur le bureau, dans la barre du menu, cliquez sur l'icône de la fenêtre Windows tout en bas à gauche et cliquez sur "Change account settings"
-
-**Etape 10** : Séléctionnez "Wilder", puis entrez votre mot de passe (par défaut : Azerty1*)
-
-**Etape 11** : Sur le bureau, dans la barre de recherche, tapez "Ultra" et cliquez sur l'icône de l'application "UltraVNC Viewer"
-
-**Etape 12** : L'application s'ouvre
-
-**Etape 13** : Entrez l'adresse IP du PC client (ici: 172.16.10.10)
-
-**Etape 7** : Cliquez sur le bouton "OK"
-
-**Etape 7** : Cliquez sur le bouton "OK"
-
-**Etape 7** : Cliquez sur le bouton "OK"
-<img src="https://github.com/user-attachments/assets/57b250c5-819c-4419-872f-861de0eb5eb3" width="600" height="400">!
-
-
-**Etape 7** : Cliquez sur le bouton "OK"!
+**Etape 17** : Cliquez sur le bouton "OK"!
 
 
 
