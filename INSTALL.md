@@ -3,7 +3,7 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
    a. [Renommer le pc](#renommer_le_pc)  
-   b. [Configuration réseau](#configuration_reseau)
+   b. [^Configuration réseau]
 4. [Installation sur le client](#installation-sur-le-client)
 5. [FAQ](#faq)
 
@@ -42,7 +42,7 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 <img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
 
 
-(#configuration_reseau)
+[^1]:configuration_reseau
 
   **B. CONFIGURATION RESEAU**  
 Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:  
