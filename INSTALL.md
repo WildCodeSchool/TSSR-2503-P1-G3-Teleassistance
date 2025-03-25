@@ -10,6 +10,8 @@
 4. [Installation sur le client](#installation-sur-le-client)  
    a. [Réseau VirtualBox](#virtualbox_reseau)  
    b. [Configuration réseau](#configuration_reseau_client)  
+      1. [Adressage réseau](#adressage_reseau)
+      2. [Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
    c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
    d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
    e. [Droits d'accès](#droits_acces_client)  
@@ -219,10 +221,33 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **a. Réseau VirtualBox** 
 <span id="virtualbox_reseau"></span>
 
+**Etape 1** : Lancez VirtualBox et cliquez sur votre machine virtuelle (dans l'exemple : Win01), puis cliquez sur la roue crantée en orange "Configuration"
+
+
+**Etape 2** : Sélectionnez le mode Expert
+
+
+**Etape 3** : Cliquez sur "Réseau"
+
+
+**Etape 4** : Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"
+
+
+**Etape 5** : Vous pouvez lancer votre machine virtuelle
+
+
 
 
    **b. Configuration Réseau** 
 <span id="virtualbox_reseau"></span>
+
+        1. Adressage réseau
+<span id="adressage_reseau"></span> 
+
+
+       2. Liaison nom et adresse IP
+<span id="liaison_nom_adresse_ip"></span> 
+
 
 
 
