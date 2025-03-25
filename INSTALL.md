@@ -306,7 +306,7 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 1** : Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
 <img src="https://github.com/user-attachments/assets/11a86726-dc7d-41ac-9066-c17a6b4aa840" width="600" height="400">
 
-**Etape 2** : Double cliquez sur votre Disque local (C:)
+**Etape 2** : Double cliquez sur votre Disque local (C:)  
 <img src="https://github.com/user-attachments/assets/92ff2f4d-5442-49f8-b6e0-05b9ab3ccece" width="600" height="400">
 
 **Etape 3** : Allez dans le dossier "Windows"  
