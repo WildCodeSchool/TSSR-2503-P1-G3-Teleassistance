@@ -1,4 +1,4 @@
-## Sommaire
+![image](https://github.com/user-attachments/assets/661e5b50-e424-4bde-8007-2ff376b8c4a1)## Sommaire
 
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
@@ -338,6 +338,66 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **c. Installation Ultra VNC** 
 <span id="installation_ultra_vnc_client"></span>
 
+**Etape 1** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/92428263-8020-4456-97b4-b35902d15d8d" width="600" height="400">
+
+**Etape 2** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/14d67231-38cf-4057-8e71-6e69f0b46207" width="600" height="400">
+
+**Etape 3** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/6c52db49-cac3-4d9f-a982-400d9b9d272f" width="600" height="400">
+
+**Etape 4** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/8a727397-2f57-4c0f-8aba-10d0e32400eb" width="600" height="400">
+
+**Etape 5** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/0a1bf817-0272-4333-8cc3-6b0e2ffbc102" width="600" height="400">
+
+**Etape 6** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/e42457f6-0555-41b7-8c1a-f593ce08b6c6" width="600" height="400">
+
+**Etape 7** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/73638b1d-df07-49a1-8e54-8c71217a44cf" width="600" height="400">
+
+**Etape 8** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/971ef5dd-efb2-4c62-8a4b-7155a24c8b7b" width="600" height="400">
+
+**Etape 9** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/b2fa051b-edce-4906-b2c8-9ae1e95745df" width="600" height="400">
+
+**Etape 10** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/a1cc74ab-c1e6-4005-a0e2-ba3780a280b7" width="600" height="400">
+
+**Etape 11** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/491d78a5-802b-4b91-8226-2959b7fcccec" width="600" height="400">
+
+**Etape 12** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/2e69adb2-2753-42ad-a18f-81eb7a909a79" width="600" height="400">
+
+**Etape 13** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/5765ecb4-dc74-4268-abf4-05da6e7c4b95" width="600" height="400">
+
+**Etape 14** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/7fb10a22-8dfa-4335-92a8-74467cfb1458" width="600" height="400">
+
+**Etape 15** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/63ff6a42-0634-4b4d-9993-f24f18ee5cf7" width="600" height="400">
+
+**Etape 16** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/54eba6ea-4357-45fd-8ccd-fd40f3e0d9d1" width="600" height="400">
+
+**Etape 17** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/c7ae6434-4a9b-47a9-bcf9-f9e5613b09b1" width="600" height="400">
+
+**Etape 18** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/6d4ade7d-1be6-4832-9a98-6bc9d86c9165" width="600" height="400">
+
+**Etape 19** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/c5e460e2-9c99-4fa1-81dc-6ee0fb983420" width="600" height="400">
+
+**Etape 20** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/2ee889b0-0ba5-4819-9875-3bf22d7744dc" width="600" height="400">
+
 
 
    **d. Désactivation du pare-feu** 
@@ -381,6 +441,31 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 
    **e. Droits d' accès** 
 <span id="droits_acces_client"></span>
+
+**Etape 1** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/304f61f0-22f3-49cd-9b73-6a40e02ca616" width="600" height="400">
+
+**Etape 2** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/6084995f-ab35-47fe-bc9d-c3827c823937" width="600" height="400">
+
+**Etape 3** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/33a84c9a-bd5f-4884-83fd-a7bc7fb64dce" width="600" height="400">
+
+**Etape 4** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/c0740af9-9836-4d5a-898b-23bfbe283b4e" width="600" height="400">
+
+**Etape 5** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/365ee328-95c3-44eb-a83f-e4c3c585f038" width="600" height="400">
+
+**Etape 6** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/97a1891a-5fcd-4ac7-9bbd-36430669acac" width="600" height="400">
+
+**Etape 7** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/82b1c5b8-2463-4261-b58b-2f17ae380d6a" width="600" height="400">
+
+**Etape 8** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/e2d50807-e8d3-4389-ae04-bbfce106f9d5" width="600" height="400">
+
 
 
 
