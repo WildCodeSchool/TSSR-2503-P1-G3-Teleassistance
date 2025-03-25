@@ -343,6 +343,40 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **d. Désactivation du pare-feu** 
 <span id="desactivation_du_pare_feu_client"></span>
 
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Pare-feu" et cliquez sur l'icône de l'application "Pare-feu Windows Defender"  
+<img src="https://github.com/user-attachments/assets/92d88ea8-8b37-4152-b91e-75462f15713a" width="600" height="400">
+
+**Etape 2** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/af1b806f-2f8b-4252-bf59-8331b15f755b" width="600" height="400">
+
+**Etape 3** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/c2e47211-a009-4e2c-9482-8b6e33740a05" width="600" height="400">
+
+**Etape 4** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/8049a188-8c78-4682-984c-a8b3529b9d34" width="600" height="400">
+
+**Etape 5** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/77ae2d9a-afc7-457e-8d31-114696f9587c" width="600" height="400">
+
+**Etape 6** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/6bf4180a-ba26-49af-8d5f-f37a96d209cd" width="600" height="400">
+
+**Etape 7** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/65a239f5-d51c-4706-9671-9e46259da5aa" width="600" height="400">
+
+**Etape 8** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/3e594bf2-2f61-4004-82c4-781024b2d81f" width="600" height="400">
+
+**Etape 9** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/e55c1673-d035-4302-ba65-62ee400f2513" width="600" height="400">
+
+**Etape 10** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/5b9b26bb-c209-4fc4-8c16-174daaf011b8" width="600" height="400">
+
+**Etape 11** : Allez dans le dossier "Windows"  
+<img src="https://github.com/user-attachments/assets/ea00a0dd-e063-450a-bb01-9bfdb2975234" width="600" height="400">
+
+
 
 
    **e. Droits d' accès** 
