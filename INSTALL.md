@@ -10,7 +10,7 @@
 4. [Installation sur le client](#installation-sur-le-client)  
    a. [Réseau VirtualBox](#virtualbox_reseau)  
    b. [Configuration réseau](#configuration_reseau_client)  
-      1. [Adressage réseau](#adressage_reseau)
+      1. [Adressage réseau](#adressage_reseau)  
       2. [Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
    c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
    d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
