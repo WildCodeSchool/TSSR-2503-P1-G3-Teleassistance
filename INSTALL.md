@@ -76,19 +76,19 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 5** : Faites un clic droit sur l'icône "Ethernet 2" :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/a3769acf-2343-4665-9d66-227d571f18ef" width="600" height="400">
 
 **Etape 6** : Cliquez sur "properties", une nouvelle fenêtre s'ouvre:  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">  
+<img src="https://github.com/user-attachments/assets/488251b8-95cf-4813-8ccb-e04c61af2822" width="600" height="400">  
 
 **Etape 7** : Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Properties" :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">  
+<img src="https://github.com/user-attachments/assets/60c9d0bf-79cd-44f6-801a-75073ab7b95a" width="600" height="400">  
 
 **Etape 8** : Une nouvelle fenêtre s'ouvre, séléctionnez "Use the following IP adress" et notez pour "IP adress": 172.16.10.5, puis dans Subnet mask : 255.255.255.0 , puis cliquez sur "OK" pour valider :  
 
-<img src="https://github.com/user-attachments/assets/63e16a63-f2f0-4cda-8070-9fd7dc46b95b" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/4fe3d904-735a-43fa-accb-23ad9030dcfc" width="600" height="400">
 
 
    **c. Installation ULTRA VNC**  
