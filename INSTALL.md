@@ -141,16 +141,29 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 
 **Etape 15** : Cliquez sur Next
 
+**Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"
 
+**Etape 17** : Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"
 
+**Etape 18** : Cliquez sur "Install"
 
+**Etape 19** : Cliquez sur "Next"
 
-
-
-
+**Etape 20** : Cliquez sur "Finish"
 
    **d. Désactivation du pare-feu**  
 <span id="desactivation_du_pare_feu_serveur"></span>  
+
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"
+
+
+**Etape 2** : Une novuelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"
+
+**Etape 3** : Une novuelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"
+
+**Etape 4** : Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"
+
+**Etape 5** : Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"
 
 
    **e. Droits d' accès**  
