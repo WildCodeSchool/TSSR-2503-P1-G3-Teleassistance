@@ -169,6 +169,47 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **e. Droits d' accès**  
 <span id="droits_acces_serveur"></span>  
 
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"
+
+**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts"
+
+**Etape 3** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"
+
+**Etape 4** : Dans le menu à gauche, cliquez sur " Other users"
+
+
+**Etape 5** : Cliquez sur l'utilisateur (dans l'exemple : Wilder) et cliquez sur "Change account type"
+
+
+**Etape 6** : Dans "Account type" sélectionnez "Standard User"
+
+
+**Etape 7** : Cliquez sur le bouton "OK"
+
+**Etape 8** : L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.
+
+**Etape 9** : Sur le bureau, dans la barre du menu, cliquez sur l'icône de la fenêtre Windows tout en bas à gauche et cliquez sur "Change account settings"
+
+**Etape 10** : Séléctionnez "Wilder", puis entrez votre mot de passe (par défaut : Azerty1*)
+
+**Etape 11** : Sur le bureau, dans la barre de recherche, tapez "Ultra" et cliquez sur l'icône de l'application "UltraVNC Viewer"
+
+**Etape 12** : L'application s'ouvre
+
+**Etape 13** : Entrez l'adresse IP du PC client (ici: 172.16.10.10)
+
+**Etape 7** : Cliquez sur le bouton "OK"
+
+**Etape 7** : Cliquez sur le bouton "OK"
+
+**Etape 7** : Cliquez sur le bouton "OK"
+
+**Etape 7** : Cliquez sur le bouton "OK"
+
+
+
+
+
 
 
 # 3. Installation sur le client  
