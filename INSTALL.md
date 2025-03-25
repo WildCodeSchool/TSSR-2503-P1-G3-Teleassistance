@@ -205,7 +205,7 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 7** : Cliquez sur le bouton "OK"
 
 **Etape 7** : Cliquez sur le bouton "OK"
-<img src="https://github.com/WildCodeSchool/TSSR-2503-P1-G3-Teleassistance/blob/main/Ressources/VM_WIN01/2-configuration_reseau_pc_client/liaison_nom_adresse_ip/etape_02.png?raw=true" width="600" height="400">
+<img src="https://github.com/WildCodeSchool/TSSR-2503-P1-G3-Teleassistance/blob/main/Ressources/logo_WCS.jpg" width="600" height="400">
 **Etape 7** : Cliquez sur le bouton "OK"
 
 
