@@ -10,8 +10,8 @@
 3. [Installation sur le client](#installation-sur-le-client)  
    a. [Réseau VirtualBox](#virtualbox_reseau)  
    b. [Configuration réseau](#configuration_reseau_client)  
-      1. [Adressage réseau](#adressage_reseau)  
-      2. [Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
+   1. [Adressage réseau](#adressage_reseau)  
+   2. [Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
    c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
    d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
    e. [Droits d'accès](#droits_acces_client)  
@@ -253,20 +253,20 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **a. Réseau VirtualBox** 
 <span id="virtualbox_reseau"></span>
 
-**Etape 1** : Lancez VirtualBox et cliquez sur votre machine virtuelle (dans l'exemple : Win01), puis cliquez sur la roue crantée en orange "Configuration"
+**Etape 1** : Lancez VirtualBox et cliquez sur votre machine virtuelle (dans l'exemple : Win01), puis cliquez sur la roue crantée en orange "Configuration"  
+<img src="https://github.com/user-attachments/assets/8ded1ca3-acea-4a44-b20b-ac1f42932cd5" width="600" height="400">
 
+**Etape 2** : Sélectionnez le mode Expert  
+<img src="https://github.com/user-attachments/assets/cd75eb0a-3537-47cb-8d20-7415a63df585" width="600" height="400">  
 
-**Etape 2** : Sélectionnez le mode Expert
+**Etape 3** : Cliquez sur "Réseau"  
+<img src="https://github.com/user-attachments/assets/2e0f3cbe-41a1-46ca-b7a2-d489064621e8" width="600" height="400">  
 
+**Etape 4** : Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/a4bb8fe3-ce1e-46e8-9809-8404b61c3ec4" width="600" height="400">  
 
-**Etape 3** : Cliquez sur "Réseau"
-
-
-**Etape 4** : Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"
-
-
-**Etape 5** : Vous pouvez lancer votre machine virtuelle
-
+**Etape 5** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">  
 
 
 
@@ -275,6 +275,29 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 
         1. Adressage réseau
 <span id="adressage_reseau"></span> 
+**Etape 1** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
+
+**Etape 2** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/37807f5c-02b0-4089-be3f-19eed16c5a06" width="600" height="400">
+
+**Etape 3** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/0a3374c1-231f-4ed0-938c-14971adb6582" width="600" height="400">
+
+**Etape 4** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/f833bdc5-c6a6-4a48-b0e4-dc4723772a5a" width="600" height="400">
+
+**Etape 5** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/cda09895-ea8c-46fd-81ae-74d72f60f2d8" width="600" height="400">
+
+**Etape 6** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
+
+**Etape 7** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
+
+**Etape 8** : Vous pouvez lancer votre machine virtuelle  
+<img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">
 
 
        2. Liaison nom et adresse IP
