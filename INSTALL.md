@@ -122,7 +122,8 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 **Etape 7** : Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
-Pour connaître l'architecture de votre PC, allez dans le panneau de configuration...................
+Nb : Pour connaître l'architecture de votre PC:  
+Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" ; Dans View by (en haut à droite) séléctionnez "Small icons", dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "System type" si vous êtes en 32 bits ou 64 bits.  
 
 <img src="https://github.com/user-attachments/assets/1a39e9e3-e34b-4e8d-86fa-5eb45f0aebd4" width="600" height="400">
 
@@ -374,7 +375,9 @@ Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la
 
 **Etape 6** : Vous arrivez sur une nouvelle page, Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
-Pour connaître l'architecture de votre PC, allez dans le panneau de configuration...................     
+Nb : Pour connaître l'architecture de votre PC:  
+Dans la barre de recherche tapez "Système", puis séléctionnez "Système Panneau de configuration"  
+Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du système" si vous êtes en 32 bits ou 64 bits.      
 <img src="https://github.com/user-attachments/assets/e42457f6-0555-41b7-8c1a-f593ce08b6c6" width="600" height="400">
 
 **Etape 7** :  Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.  
