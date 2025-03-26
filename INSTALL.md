@@ -293,8 +293,8 @@ Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la
 
    **b. Configuration Réseau** 
 <span id="virtualbox_reseau"></span>
-
-        1. Adressage réseau
+  
+ 1. Adressage réseau  
 <span id="adressage_reseau"></span> 
 **Etape 1** : En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
 <img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
@@ -321,7 +321,7 @@ Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la
 <img src="https://github.com/user-attachments/assets/d6b55b86-41e4-4a38-bc54-680035ecd750" width="600" height="400">
 
 
-       2. Liaison nom et adresse IP
+  2. Liaison nom et adresse IP
 <span id="liaison_nom_adresse_ip"></span> 
 
 **Etape 1** : Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
@@ -485,7 +485,7 @@ Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du s
 **Etape 7** : Faites un clic droit, puis séléctionnez "Ajouter au groupe"  
 <img src="https://github.com/user-attachments/assets/82b1c5b8-2463-4261-b58b-2f17ae380d6a" width="600" height="400">
 
-**Etape 8** : Valiez en cliquant sur le bouton "OK"  
+**Etape 8** : Cliquez sur "Ajoutez" choissisez le compte "TheWilder" puis validez en cliquant sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/e2d50807-e8d3-4389-ae04-bbfce106f9d5" width="600" height="400">  
 
   
@@ -510,16 +510,16 @@ Nb : les deux mots de passe doivent être différents.
 <span id="faq"></span>  
 
 **Est-ce qu'un utilisateur standard peut se servir de la téléassistance ?**  
-Non, seuls les administrateurs peuvent se servier de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
+Non, seuls les administrateurs peuvent se servir de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
 
 **J'essaie de tranférer un dossier avec UltraVNC mais j'ai un message d'erreur**  
-Le transfert d'un dossier ne peut pas avoir lieu que s'il contient au moins un fichier. Les dossiers vides ne peuvent être transférés.  
+Le transfert d'un dossier ne peut avoir lieu que s'il contient au moins un fichier. Les dossiers vides ne peuvent être transférés.  
 
 **Est-il normal que UltraVNC Server soit sur le PC Client et UltraVNC Viewer soit sur le PC Server ?**  
 Oui, c'est tout à fait normal, VNC Server sert à établir le lien avec le PC qui fera l'assistance. Ultra VNC viewer sert à prendre le contrôle du PC à dépanner.  
 
-**Lors du paramétrage de UltraVNC, dans VNC authentification, j'ai un message d'erreur lorsque je rentre mon mot de passe et que je le confirme en l'entrant à novueau**  
+**Lors du paramétrage de UltraVNC, dans VNC authentification, j'ai un message d'erreur lorsque je rentre mon mot de passe et que je le confirme en l'entrant à nouveau**  
 Le VNC Password et le View-Only Password doivent être 2 mots de passe différent.  
-Le VNC Password sert à prend le contrôle du PC à assister et à exécuter des tâches de dépannage, quand au View-Only Password il sert uniquement à voir le PC a assister sans pouvoir faire de dépannage.  
+Le VNC Password sert à prendre le contrôle du PC **REMOTE** et à exécuter des tâches de dépannage, quand au View-Only Password il ne donne qu'un accès visuel du PC **REMOTE** sans pouvoir faire de dépannage.  
 
 
