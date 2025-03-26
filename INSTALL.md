@@ -442,28 +442,28 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
    **e. Droits d' accès** 
 <span id="droits_acces_client"></span>
 
-**Etape 1** : Allez dans le dossier "Windows"  
+**Etape 1** : Ouvrez l'explorateur de fichiers, puis faites un clic droit sur "Ce PC", puis cliquez sur "Gérer"  
 <img src="https://github.com/user-attachments/assets/304f61f0-22f3-49cd-9b73-6a40e02ca616" width="600" height="400">
 
-**Etape 2** : Allez dans le dossier "Windows"  
+**Etape 2** : Une nouvelle fenêtre "Gestion de l'ordinateur" s'ouvre  
 <img src="https://github.com/user-attachments/assets/6084995f-ab35-47fe-bc9d-c3827c823937" width="600" height="400">
 
-**Etape 3** : Allez dans le dossier "Windows"  
+**Etape 3** : Faites un clic droit sur le compte "Administrateur" et sélectionnez "Propriétés" 
 <img src="https://github.com/user-attachments/assets/33a84c9a-bd5f-4884-83fd-a7bc7fb64dce" width="600" height="400">
 
-**Etape 4** : Allez dans le dossier "Windows"  
+**Etape 4** : Dans l'onglet "Général", cochez seulement la case "Le mot de passe n'expire jamais"  
 <img src="https://github.com/user-attachments/assets/c0740af9-9836-4d5a-898b-23bfbe283b4e" width="600" height="400">
 
-**Etape 5** : Allez dans le dossier "Windows"  
+**Etape 5** : Dans l'onglet "Membre de", cliquez sur le bouton "Ajouter"  
 <img src="https://github.com/user-attachments/assets/365ee328-95c3-44eb-a83f-e4c3c585f038" width="600" height="400">
 
-**Etape 6** : Allez dans le dossier "Windows"  
+**Etape 6** : Séléctionnez "Utilisateur" 
 <img src="https://github.com/user-attachments/assets/97a1891a-5fcd-4ac7-9bbd-36430669acac" width="600" height="400">
 
-**Etape 7** : Allez dans le dossier "Windows"  
+**Etape 7** : Faites un clic droit, puis séléctionnez "Ajouter au groupe"  
 <img src="https://github.com/user-attachments/assets/82b1c5b8-2463-4261-b58b-2f17ae380d6a" width="600" height="400">
 
-**Etape 8** : Allez dans le dossier "Windows"  
+**Etape 8** : Valiez en cliquant sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/e2d50807-e8d3-4389-ae04-bbfce106f9d5" width="600" height="400">
 
 
