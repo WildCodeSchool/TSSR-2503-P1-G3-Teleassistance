@@ -3,15 +3,17 @@
 1. [Prérequis technique](#prerequis-technique)
 2. [Installation sur le serveur](#installation-sur-le-serveur)  
 * a. [Renommer le pc](#renommer_le_pc)  
-* b. [Configuration réseau](#configuration_reseau_serveur)  
-* c. [Installation Ultra VNC](#installation_ultra_vnc_server)  
+* b. [Configuration réseau](#configuration_reseau_serveur)
+   * 1 . [Adressage réseau](#adressage_reseau_serveur)
+   * 2 . [Liaison_nom_adresse_IP](#liaison_nom_adresse_ip_serveur)
+* c. [Installation Ultra VNC](#installation_ultra_vnc_serveur)  
 * d. [Désactivation du pare-feu](#desactivation_du_pare_feu_serveur)  
 * e. [Droits d'accès](#droits_acces_serveur)  
 3. [Installation sur le client](#installation-sur-le-client)  
 * a. [Réseau VirtualBox](#virtualbox_reseau)  
 * b. [Configuration réseau](#configuration_reseau_client)  
-   * 1 . [Adressage réseau](#adressage_reseau)  
-   * 2 .[Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
+   * 1 . [Adressage réseau](#adressage_reseau_client)  
+   * 2 .[Liaison nom et adresse IP](#liaison_nom_adresse_ip_client)  
 * c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
 * d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
 * e. [Droits d'accès](#droits_acces_client)
@@ -59,6 +61,9 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
    **b. Configuration Réseau**  
 <span id="configuration_reseau_serveur"></span>  
 
+ 1. Adressage réseau   
+<span id="adressage_reseau_serveur"></span>  
+
 **Etape 1** : Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez voir apparaître l'application du Server Manager:    
 
 <img src="https://github.com/user-attachments/assets/3649b699-7516-400a-aad9-8001bf936266" width="600" height="400">
@@ -91,9 +96,51 @@ Lorsque vous vous connectez au mode administrateur, le Server Manager s'affiche:
 
 <img src="https://github.com/user-attachments/assets/4fe3d904-735a-43fa-accb-23ad9030dcfc" width="600" height="400">
 
+ 2. Liaison nom adresse IP   
+<span id="liaison_nom_adresse_ip_serveur"></span>
+
+**Etape 1** : Ouvrez l'explorateur de fichier (File Explorer)  
+
+<img src="https://github.com/user-attachments/assets/6c54dcbe-afc4-46b0-92cd-b3f858a833c0" width="600" height="400">  
+
+**Etape 2** : Sélectionnez le Local Disk (C:), puis double-cliquez sur le dossier "Windows"  
+
+<img src="https://github.com/user-attachments/assets/8c61bb08-c0cf-4c01-8c58-2677516a8397" width="600" height="400">
+
+**Etape 3** : Double-cliquez sur le dossier "System32"  
+
+<img src="https://github.com/user-attachments/assets/c27ad5b2-01ca-4ddc-b38c-cd035a98137c" width="600" height="400">
+
+**Etape 4** : Double-cliquez sur le dossier "drivers"  
+
+<img src="https://github.com/user-attachments/assets/67a5731e-a169-453e-b873-e80215aa018f" width="600" height="400">
+
+**Etape 5** : Double-cliquez sur le dossier "etc"  
+
+<img src="https://github.com/user-attachments/assets/e4dd0b57-c5ba-4ad9-819e-1fe3f88ac76b" width="600" height="400">
+
+**Etape 6** : Faites un clic droit sur le fichier "hosts", puis cliquez sur "Open with"  
+
+<img src="https://github.com/user-attachments/assets/7265b0f4-ba0d-49f9-90b0-506753341ab2" width="600" height="400">
+
+**Etape 7** : Sélectionnez un éditeur de texte (dans l'exemple: Notepad), puis cliquez sur "OK"  
+
+<img src="https://github.com/user-attachments/assets/addbedc3-c870-48b6-a7cd-e5069762690b" width="600" height="400">
+
+**Etape 8** : Allez en bas du fichier, puis entrez l'adresse IP, appuyer sur la touche "TAB" (tabulation)  
+puis entrez le nom de la machine du PC à contrôler (dans l'exemple : Win01).  
+
+<img src="https://github.com/user-attachments/assets/84725638-43a5-4739-941d-1378ec2081d8" width="600" height="400">
+
+**Etape 9** : Cliquez sur "File", puis "Save", enfin fermez le fichier    
+
+<img src="https://github.com/user-attachments/assets/05402045-a256-491d-878a-ba2f6f7f5929" width="600" height="400">
+
+
+   
 
    **c. Installation ULTRA VNC**  
-<span id="installation_ultra_vnc_server"></span>  
+<span id="installation_ultra_vnc_serveur"></span>  
 
 **Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com) :  
 
@@ -295,7 +342,7 @@ Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la
 <span id="virtualbox_reseau"></span>
   
  1. Adressage réseau  
-<span id="adressage_reseau"></span> 
+<span id="adressage_reseau_client"></span> 
 **Etape 1** : En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
 <img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
 
@@ -322,7 +369,7 @@ Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la
 
 
   2. Liaison nom et adresse IP
-<span id="liaison_nom_adresse_ip"></span> 
+<span id="liaison_nom_adresse_ip_client"></span> 
 
 **Etape 1** : Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
 <img src="https://github.com/user-attachments/assets/11a86726-dc7d-41ac-9066-c17a6b4aa840" width="600" height="400">
