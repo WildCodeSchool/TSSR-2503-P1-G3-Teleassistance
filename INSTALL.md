@@ -364,16 +364,16 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 8** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
 <img src="https://github.com/user-attachments/assets/971ef5dd-efb2-4c62-8a4b-7155a24c8b7b" width="600" height="400">
 
-**Etape 9** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download"),Une fenêtre s'ouvre avec votre exécutable      
+**Etape 9** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("Téléchargements"),Une fenêtre s'ouvre avec votre exécutable      
 <img src="https://github.com/user-attachments/assets/a1cc74ab-c1e6-4005-a0e2-ba3780a280b7" width="600" height="400">
 
-**Etape 10** : Faites un clic droit dessus et cliquez sur "Run as administrator"  
+**Etape 10** : Faites un clic droit dessus et cliquez sur "Exécuter en tant qu'administrateur"  
 <img src="https://github.com/user-attachments/assets/491d78a5-802b-4b91-8226-2959b7fcccec" width="600" height="400">
 
 **Etape 11** : Cliquez sur "OK"   
 <img src="https://github.com/user-attachments/assets/2e69adb2-2753-42ad-a18f-81eb7a909a79" width="600" height="400">
 
-**Etape 12** : Cliquez sur "Suivant"
+**Etape 12** : Cochez la case "Je comprends et j'accepte les terme du contrat de licence, puis cliquez sur "Suivant"  
 <img src="https://github.com/user-attachments/assets/5765ecb4-dc74-4268-abf4-05da6e7c4b95" width="600" height="400">
 
 **Etape 13** : Cliquez sur "Suivant"    
@@ -382,19 +382,19 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 14** : Cochez la case "UltraVNC Server puis cliquez sur "Suivant"    
 <img src="https://github.com/user-attachments/assets/63ff6a42-0634-4b4d-9993-f24f18ee5cf7" width="600" height="400">
 
-**Etape 15** : Cochez toutes les cases
+**Etape 15** : Cochez toutes les cases  
 <img src="https://github.com/user-attachments/assets/54eba6ea-4357-45fd-8ccd-fd40f3e0d9d1" width="600" height="400">
 
-**Etape 16** : Allez dans le dossier "Windows"  
+**Etape 16** : Cliquez sur "Installer"  
 <img src="https://github.com/user-attachments/assets/c7ae6434-4a9b-47a9-bcf9-f9e5613b09b1" width="600" height="400">
 
-**Etape 18** : Allez dans le dossier "Windows"  
+**Etape 17** : L'installation se lance  
 <img src="https://github.com/user-attachments/assets/6d4ade7d-1be6-4832-9a98-6bc9d86c9165" width="600" height="400">
 
-**Etape 19** : Allez dans le dossier "Windows"  
+**Etape 18** : Cliquez sur "Suivant"  
 <img src="https://github.com/user-attachments/assets/c5e460e2-9c99-4fa1-81dc-6ee0fb983420" width="600" height="400">
 
-**Etape 20** : Allez dans le dossier "Windows"  
+**Etape 19** : Séléctionnez "Oui, redémarrer mon ordinateur maintenant", puis cliquez sur "Terminer"    
 <img src="https://github.com/user-attachments/assets/2ee889b0-0ba5-4819-9875-3bf22d7744dc" width="600" height="400">
 
 
