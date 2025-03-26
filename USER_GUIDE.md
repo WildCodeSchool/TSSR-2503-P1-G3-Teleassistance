@@ -49,13 +49,16 @@ _(EX: Ici on choisis l'ip de notre machine client connecté en local)_
     
   ---> Une fois le fichier et/ou dossier séléctionner cliquer sur "**SEND**" pour l'envoyer sur la machine **Remote** ou "**RECEIVE**" pour la recevoir sur votre machine **Hôte**
 
-_(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte** vers la machine **Remote**(en l'occurence le client). Vous pouvez apercevoir le chemin des dossiers/fichiers sur les deux machines dans la barre situé en haut._
-
+_(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte** vers la machine **Remote**(en l'occurence le client). Vous pouvez apercevoir le chemin des dossiers/fichiers sur les deux machines dans la barre de titre situé en haut._
 **Important**: Pour transférer un dossier d'une machine à l'autre il ne doit pas être vide ou le transfert ne s'effectuera pas. Cela ne s'applique pas aux fichiers.
-
 ![envoie_file_vers_client](https://github.com/user-attachments/assets/730c613e-8f77-43bd-904b-5ce1d44a6036)
 
 ![envoie_file_vers_client](https://github.com/user-attachments/assets/ee0057ae-fa17-41d7-949a-231c4b044972)
+
+
+**(EX: Récupération du fichier _Client_Folder_ sur la machine 'Hôte'**)
+![client_folder_recuperation_finished](https://github.com/user-attachments/assets/1f5fc9e0-afbd-4544-8a88-ada0834e4030)
+
   - Vous pouvez aussi renommer et supprimer un fichier/dossier sur les deux machines **Hôte** et **Remote** via cette interface :
 
   ---> Pour ce faire, après avoir séléctionner un dossier cliquez sur le bouton **Delete**
@@ -64,7 +67,20 @@ _(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte**
 
 ![envoie_file_vers_client_finished2](https://github.com/user-attachments/assets/6a45bbcb-35c9-4129-8aca-0ac9444097a0)
 
+  
+  ---> Pour avoir un aperçu des différentes branches de dossiers disponible sur chaque machine, vous pouvez vous déplacez à l'aide du menu déroulant (flèche rouge) situé à coté de "**LOCAL MACHINE**" et **REMOTE MACHINE** ou 
+  via la barre de titre pour le chemin complet (flèche verte).
+  
+  ![chemin_de_destination](https://github.com/user-attachments/assets/99de2db3-3218-4de3-a550-6d79b8d7a82f)
 
+
+
+  - Lors d'une prise de contrôle, vous serez peut être amenez à utiliser des commandes ou vous déplacez dans des dossiers qui, par sécurité ne peuvent être connu que de vous "**l'administrateur**". Et donc par conséquent          UltraVNC a pensez à vous en mettant une fonction vous permettant de cacher l'écran de la machine **REMOTE** empéchant ainsi au client dépanné de voir l'intervention sensible en cours.  
+
+![connexion_client2](https://github.com/user-attachments/assets/4abf98af-3e11-489b-b4b2-4d3d1dc8aa12)
+
+  (Lorsqu'il est activé l'écran s'affiche noir avec un cadenas montrant qu'il est actif)
+  ![ecran_client_cacher](https://github.com/user-attachments/assets/9385332d-b7f6-4714-8444-663cb6dc2ab1)
 
 
 
