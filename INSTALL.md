@@ -470,4 +470,19 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 
 
 # 4. FAQ
-<span id="faq"></span>        
+<span id="faq"></span>  
+
+**Est-ce qu'un utilisateur standard peut se servir de la téléassistance ?**  
+Non, seul les administrateurs peuvent se servier de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
+
+**J'essaie de tranférer un dossier avec UltraVNC mais j'ai un message d'erreur**  
+Le transfert d'un dossier ne peut pas avoir lieu que s'il contient au moins un fichier. Les dossiers vides ne peuvent être transférés.  
+
+**Est-il normal que UltraVNC Server soit sur le PC Client et UltraVNC Viewer soit sur le PC Server ?**  
+Oui, c'est tout à fait normal, VNC Server sert à établir le lien avec le PC qui fera l'assistance. Ultra VNC viewer sert à prendre le contrôle du PC à dépanner.  
+
+**Lors du paramétrage de UltraVNC, dans VNC authentification, j'ai un message d'erreur lorsque je rentre mon mot de passe et que je le confirme en l'entrant à novueau**  
+Le VNC Password et le View-Only Password doivent être 2 mots de passe différent.  
+Le VNC Password sert à prend le contrôle du PC à assister et à exécuter des tâches de dépannage, quand au View-Only Password il sert uniquement à voir le PC a assister sans pouvoir faire de dépannage.  
+
+
