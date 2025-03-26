@@ -341,7 +341,7 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et validez  
 <img src="https://github.com/user-attachments/assets/92428263-8020-4456-97b4-b35902d15d8d" width="600" height="400">
 
-**Etape 2** :  Cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com)   http  
+**Etape 2** :  Cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com)    
 <img src="https://github.com/user-attachments/assets/14d67231-38cf-4057-8e71-6e69f0b46207" width="600" height="400">
 
 **Etape 3** : Vous arrivez sur la page d'accueil du site   
@@ -364,28 +364,28 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 8** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
 <img src="https://github.com/user-attachments/assets/971ef5dd-efb2-4c62-8a4b-7155a24c8b7b" width="600" height="400">
 
-**Etape 9** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")  
+**Etape 9** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download"),Une fenêtre s'ouvre avec votre exécutable      
 <img src="https://github.com/user-attachments/assets/a1cc74ab-c1e6-4005-a0e2-ba3780a280b7" width="600" height="400">
 
-**Etape 10** : Une fenêtre s'ouvre avec votre exécutable  
+**Etape 10** : Faites un clic droit dessus et cliquez sur "Run as administrator"  
 <img src="https://github.com/user-attachments/assets/491d78a5-802b-4b91-8226-2959b7fcccec" width="600" height="400">
 
-**Etape 11** : Faites un clic droit dessus et cliquez sur "Run as administrator"  
+**Etape 11** : Cliquez sur "OK"   
 <img src="https://github.com/user-attachments/assets/2e69adb2-2753-42ad-a18f-81eb7a909a79" width="600" height="400">
 
-**Etape 12** : Cliquez sur "OK"  
+**Etape 12** : Cliquez sur "Suivant"
 <img src="https://github.com/user-attachments/assets/5765ecb4-dc74-4268-abf4-05da6e7c4b95" width="600" height="400">
 
-**Etape 13** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"  
+**Etape 13** : Cliquez sur "Suivant"    
 <img src="https://github.com/user-attachments/assets/7fb10a22-8dfa-4335-92a8-74467cfb1458" width="600" height="400">
 
-**Etape 14** : Cliquez sur "Next"  
+**Etape 14** : Cochez la case "UltraVNC Server puis cliquez sur "Suivant"    
 <img src="https://github.com/user-attachments/assets/63ff6a42-0634-4b4d-9993-f24f18ee5cf7" width="600" height="400">
 
-**Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"  
+**Etape 15** : Cochez toutes les cases
 <img src="https://github.com/user-attachments/assets/54eba6ea-4357-45fd-8ccd-fd40f3e0d9d1" width="600" height="400">
 
-**Etape 17** : Allez dans le dossier "Windows"  
+**Etape 16** : Allez dans le dossier "Windows"  
 <img src="https://github.com/user-attachments/assets/c7ae6434-4a9b-47a9-bcf9-f9e5613b09b1" width="600" height="400">
 
 **Etape 18** : Allez dans le dossier "Windows"  
