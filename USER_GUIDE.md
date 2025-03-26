@@ -37,19 +37,20 @@ _(EX: Ici on choisis l'ip de notre machine client connecté en local)_
 ## A. Utilisations et options disponibles lors d'une intervention distante
 
 ### **Interaction avec les fichiers**:
-- Via UltraVNC vous avez la possibilité une fois connecté, d'avoir un accès complet au dossier et fichier de votre machine **"hôte"** et de la machine **"Remote"** via "**l'interface File Transfer**" :
 
+  - Via UltraVNC vous avez la possibilité une fois connecté, d'avoir un accès complet au dossier et fichier de votre machine **"hôte"** et de la machine **"Remote"** via "**l'interface File Transfer**" :
 
 ![transfer_file_serveur_client](https://github.com/user-attachments/assets/57afd03d-a007-410f-9012-0b20de65f0e8)
 
 ![acceuil_transfer_file](https://github.com/user-attachments/assets/3c4239a4-62c9-4264-baf8-0f3db4d1ecac)
 
-- Une fois sur l'interface vous avez plusieurs possibilité qui s'offrent à vous selon vos besoins:
+  - Une fois sur l'interface vous avez plusieurs possibilité qui s'offrent à vous selon vos besoins:
   - Vous pouvez transférez des fichiers et dossier déja existant vers l'une ou l'autre machine :
     
   ---> Une fois le fichier et/ou dossier séléctionner cliquer sur "**SEND**" pour l'envoyer sur la machine **Remote** ou "**RECEIVE**" pour la recevoir sur votre machine **Hôte**
 
 _(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte** vers la machine **Remote**(en l'occurence le client). Vous pouvez apercevoir le chemin des dossiers/fichiers sur les deux machines dans la barre de titre situé en haut._
+
 **Important**: Pour transférer un dossier d'une machine à l'autre il ne doit pas être vide ou le transfert ne s'effectuera pas. Cela ne s'applique pas aux fichiers.
 ![envoie_file_vers_client](https://github.com/user-attachments/assets/730c613e-8f77-43bd-904b-5ce1d44a6036)
 
@@ -61,13 +62,14 @@ _(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte**
 
   - Vous pouvez aussi renommer et supprimer un fichier/dossier sur les deux machines **Hôte** et **Remote** via cette interface :
 
-  ---> Pour ce faire, après avoir séléctionner un dossier cliquez sur le bouton **Delete**
-
-  ---> Pour renommer un fichier/dossier cliquez sur **RENAME** après l'avoir séléctionner
+  ---> Pour supprimer un fichier/dossier, cliquez sur le bouton **Delete** après l'avoir séléctionner
 
 ![envoie_file_vers_client_finished2](https://github.com/user-attachments/assets/6a45bbcb-35c9-4129-8aca-0ac9444097a0)
 
-  
+  ---> Pour renommer un fichier/dossier cliquez sur **RENAME** après l'avoir séléctionner
+
+  ![rename_folder2](https://github.com/user-attachments/assets/d2843bda-5379-4fc0-b871-4b8a6504cf2b)
+
   ---> Pour avoir un aperçu des différentes branches de dossiers disponible sur chaque machine, vous pouvez vous déplacez à l'aide du menu déroulant (flèche rouge) situé à coté de "**LOCAL MACHINE**" et **REMOTE MACHINE** ou 
   via la barre de titre pour le chemin complet (flèche verte).
   
@@ -83,7 +85,38 @@ _(EX: Ici nous envoyons le dossier "**New_Folder_Test**" de la machine **Hôte**
   ![ecran_client_cacher](https://github.com/user-attachments/assets/9385332d-b7f6-4714-8444-663cb6dc2ab1)
 
 
+  (Point de vue de la machine **REMOTE** une fois l'écran de sécurité activé)
+  ![ecran_client_cacher2](https://github.com/user-attachments/assets/9489c8c4-f30d-4049-bf3b-a804fe291279)
 
+
+  - Vous pouvez regardez l'historique des actions effectuer dans la barre déroulante situé en bas à coté de **"History"**
+![history_file_transfer](https://github.com/user-attachments/assets/430a82f7-8722-450e-959c-039e9ce93378)
+
+  - Lors d'une intervention si vous n'avez aucun contact avec la personne nécéssitant l'assistance, il existe un tchat intégré a **UltraVNC**:
+
+  --> Pour lancer le tchat, appuyer sur les deux bulles vertes. Une fenêtre apparaîtra sur votre machine **Hôte** et sur la machine **REMOTE**
+![connexion_client_3](https://github.com/user-attachments/assets/e348d5a5-20bf-4f12-9d09-6c729b40810b)
+
+![tchat_serveur_client](https://github.com/user-attachments/assets/55a860e4-78ca-4bef-a912-a4a1c503e396)
+
+(Fenêtre de tchat apparaissant sur la machine **REMOTE**)
+![tchat_client_serveur](https://github.com/user-attachments/assets/7e80ac97-e024-43a7-ba33-e7f29f11095c)
+
+  - Pour éviter d'avoir des conflits avec votre machine, le raccourci CTRL+ALT+SUPPR peut être lancer via les trois petites touches dans la barre d'outils à gauche :
+![ctrl_alt_suppr_option](https://github.com/user-attachments/assets/844dd1cf-9df4-43c7-826c-e8829b34e695)
+
+
+![send_ctrl_alt_supp_client](https://github.com/user-attachments/assets/d23b4277-0829-46c4-8eba-f8c15536d828)
+
+  - Il est possible également de faire un screenshot via **UltraVNC**
   
+  ---> Cliquez sur l'appareil photo situé dans la barre d'outil pour effectuer une capture d'image
+  ![screenshot_option](https://github.com/user-attachments/assets/0957f843-25c3-4bd7-9fd2-5ca33daea74a)
+  
+  - Evidemment une fois la connexion établie vous pouvez très bien vous servir de la machine **REMOTE** comme si c'était votre machine et effectuer diverses actions...
+
+  **(EX: Prendre le control du Powershell pour vous aidez dans votre intervention)**
+  ![prise_de_contrôle_powershell_](https://github.com/user-attachments/assets/aa6b3fac-6a1d-4acd-828a-1dbf843c70f5)
+
 # 3. FAQ
 <span id="faq"></span>
