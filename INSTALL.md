@@ -172,7 +172,7 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"  
 <img src="https://github.com/user-attachments/assets/06937f9e-e52e-4d5f-b86d-1129b0a0ad09" width="600" height="400">
 
-**Etape 2** : Une nouvuelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"  
+**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"  
 <img src="https://github.com/user-attachments/assets/bf8fcfa7-fad4-410e-9545-f37e746f5897" width="600" height="400">
 
 **Etape 3** : Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"  
@@ -473,7 +473,7 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 <span id="faq"></span>  
 
 **Est-ce qu'un utilisateur standard peut se servir de la téléassistance ?**  
-Non, seul les administrateurs peuvent se servier de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
+Non, seuls les administrateurs peuvent se servier de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
 
 **J'essaie de tranférer un dossier avec UltraVNC mais j'ai un message d'erreur**  
 Le transfert d'un dossier ne peut pas avoir lieu que s'il contient au moins un fichier. Les dossiers vides ne peuvent être transférés.  
