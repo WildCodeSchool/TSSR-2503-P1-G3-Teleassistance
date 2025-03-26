@@ -237,11 +237,20 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 <img src="https://github.com/user-attachments/assets/5eb8bf66-0090-4113-8d0a-93fb477cc119" width="600" height="400">
 
 
-**Etape 17** : Cliquez sur le bouton "OK"!
+**Etape 18** : Cliquez sur le bouton "OK"!  
 
 
+**Etape 19** : Cliquez sur le bouton "OK"!  
 
+**Etape 20** : Cliquez sur le bouton "OK"!  
 
+**Etape 21** : Cliquez sur le bouton "OK"!  
+
+**Etape 22** : Cliquez sur le bouton "OK"!  
+
+**Etape 23** : Cliquez sur le bouton "OK"!  
+
+**Etape 24** : Cliquez sur le bouton "OK"!  
 
 
 
