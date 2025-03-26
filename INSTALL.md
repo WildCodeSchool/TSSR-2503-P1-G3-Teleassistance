@@ -197,10 +197,10 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 3** : Dans le menu à gauche, cliquez sur " Other users"    
 <img src="https://github.com/user-attachments/assets/720942f8-f83d-4c99-93b3-d7d2ef521e13" width="600" height="400">  
 
-**Etape 4** :   
+**Etape 4** :  Cliquez sur l'utilisateur dont vous voulez gérer les accès   
 <img src="https://github.com/user-attachments/assets/d8fe9ee7-9a65-4ed4-a6bf-5344a1295473" width="600" height="400">  
 
-**Etape 5** : Cliquez sur l'utilisateur (dans l'exemple : Wilder) et cliquez sur "Change account type"  
+**Etape 5** : Cliquez sur "Change account type"  
 <img src="https://github.com/user-attachments/assets/806e5697-f708-4e2a-83d0-adf8b89b0058" width="600" height="400">  
 
 **Etape 6** : Dans "Account type" sélectionnez "Standard User"  
@@ -212,52 +212,54 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 8** : L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.  
 <img src="https://github.com/user-attachments/assets/1e353067-96dd-4803-b9b6-2b94d685cdd5" width="600" height="400">  
 
-**Etape 9** : Sur le bureau, dans la barre du menu, cliquez sur l'icône de la fenêtre Windows tout en bas à gauche et cliquez sur "Change account settings"  
+**Etape 9** : Sur le bureau, dans la barre du menu, tapez "Ultra" afin de voir apparaître l'icone du logiciel, puis faites un clic droit dessus et cliquez sur "Open file location"      
 <img src="https://github.com/user-attachments/assets/8190e76f-72fd-4cac-a03a-c23ba0713e41" width="600" height="400">  
 
-**Etape 10** : Séléctionnez "Wilder", puis entrez votre mot de passe (par défaut : Azerty1*)  
+**Etape 10** : La fenêtre avec le dossier d'Ultra VNC s'ouvre    
 <img src="https://github.com/user-attachments/assets/bbd4b0ae-7a45-4475-a125-62b7f813f9b3" width="600" height="400">  
 
-**Etape 11** : Sur le bureau, dans la barre de recherche, tapez "Ultra" et cliquez sur l'icône de l'application "UltraVNC Viewer"  
+**Etape 11** : Faites un clic droit sur "UltraVNC Viewer", puis sélectionnez "Properties"    
 <img src="https://github.com/user-attachments/assets/121958f2-860a-4243-a0e0-ad60a98870fb" width="600" height="400">
 
-**Etape 12** : L'application s'ouvre  
+**Etape 12** : Une fenêtre s'ouvre     
 <img src="https://github.com/user-attachments/assets/7b2ba7dc-d063-4a38-a878-835a61daeaa9" width="600" height="400">
 
-**Etape 13** : Entrez l'adresse IP du PC client (ici: 172.16.10.10)  
+**Etape 13** : Dans l'onglet "Security"  
 <img src="https://github.com/user-attachments/assets/cd34c718-7261-44bc-a203-9886be9e3375" width="600" height="400">  
 
-**Etape 14** : Cliquez sur le bouton "OK"  
+**Etape 14** : Sélectionnez "Users" , puis cliquez sur "Advanced"  
 <img src="https://github.com/user-attachments/assets/18ceb73c-fc71-4541-8225-09ede1d7b3b8" width="600" height="400">
 
-**Etape 15** : Cliquez sur le bouton "OK"  
+**Etape 15** : Une nouvelle fenêtre s' ouvre    
 <img src="https://github.com/user-attachments/assets/7f657245-5fae-423b-a1cc-41faabb3f8a1" width="600" height="400">
 
-**Etape 16** : Cliquez sur le bouton "OK"  
+**Etape 16** : Faites un clic sur "Users" pour le sélectionner , puis cliquez sur "Disable inheritance"    
 <img src="https://github.com/user-attachments/assets/387736b0-228e-4e09-8e10-b54ad9c581f5" width="600" height="400">
 
-**Etape 17** : Cliquez sur le bouton "OK"  
+**Etape 17** : Cliquez sur "Convert inherited permissions into explicit permissions on this object"  
 <img src="https://github.com/user-attachments/assets/152e0c07-d39b-445f-a310-2056b11c52b4" width="600" height="400">
 
-**Etape 18** : Cliquez sur le bouton "OK"  
+**Etape 18** : Le bouton "Disable inheritance" devient "Enable inheritance"  
 <img src="https://github.com/user-attachments/assets/a64e0404-13cb-4366-a955-f42b66abf489" width="600" height="400">  
 
-**Etape 19** : Cliquez sur le bouton "OK"!  
+**Etape 19** : Sélectionnez la ligne "Users" , puis cliquez sur le bouton "Edit"    
 <img src="https://github.com/user-attachments/assets/00a2a04d-fbab-454e-bd01-30e214ee6efe" width="600" height="400">  
 
-**Etape 20** : Cliquez sur le bouton "OK"!  
+**Etape 20** : Sélectionnez le type "Allow"   
 <img src="https://github.com/user-attachments/assets/09b0aba7-c011-40a2-9100-a1bffe8b5b4f" width="600" height="400">  
 
-**Etape 21** : Cliquez sur le bouton "OK"!  
+**Etape 21** : Décochez toutes les cases, puis cliquez sur le bouton "OK"   
 <img src="https://github.com/user-attachments/assets/e2cda129-9898-42dc-973c-de53f1c70b10" width="600" height="400">  
 
-**Etape 22** : Cliquez sur le bouton "OK"!  
+**Etape 22** : Les utilisateurs "Users" ont disparus, ce qui signifie qu'ils n'auront plus accès à UltraVNC.  
+Nb: Si vous avez une ligne "Everyone", faites un clic dessus, puis cliquez le sur bouton "Remove".  
+Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la télé-assistance.  
 <img src="https://github.com/user-attachments/assets/31eae159-5243-4fd4-9d56-c76ca30151f8" width="600" height="400">  
 
-**Etape 23** : Cliquez sur le bouton "OK"!  
+**Etape 23** : Cliquez sur le bouton "Apply", puis sur le bouton "OK"   
 <img src="https://github.com/user-attachments/assets/401fee33-5831-453f-93b6-d73c1077248b" width="600" height="400">  
 
-**Etape 24** : Cliquez sur le bouton "OK"!  
+**Etape 24** : Pour finir, cliquez sur le bouton "OK"!  
 <img src="https://github.com/user-attachments/assets/95463b6e-810a-4693-be73-e2b6528a3611" width="600" height="400">  
 
 
