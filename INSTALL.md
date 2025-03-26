@@ -409,8 +409,8 @@ Pour connaître l'architecture de votre PC, allez dans le panneau de configurati
 **Etape 2** : Dans le menu à gauche, cliquez sur "Activer ou désactiver le pare-feu Windows Defender"  
 <img src="https://github.com/user-attachments/assets/af1b806f-2f8b-4252-bf59-8331b15f755b" width="600" height="400">
 
-**Etape 3** : Dans "Paramètres des réseaux privés" et "Paramètres des réseaux publics" cochez la case "Désactiver le Pare-feu Windows Defender", puis cliquez sur le bouton "OK"
-<img src="https://github.com/user-attachments/assets/c2e47211-a009-4e2c-9482-8b6e33740a05" width="600" height="400">
+**Etape 3** : Dans "Paramètres des réseaux privés" et "Paramètres des réseaux publics" cochez la case "Désactiver le Pare-feu Windows Defender", puis cliquez sur le bouton "OK"  
+<img src="https://github.com/user-attachments/assets/c2e47211-a009-4e2c-9482-8b6e33740a05" width="600" height="400">  
 
 **Etape 4** :  Sur le bureau, tapez dans la barre de recherche en bas "Pare-feu", puis séléctionnez "Pare-feu et protection du réseau"
 <img src="https://github.com/user-attachments/assets/8049a188-8c78-4682-984c-a8b3529b9d34" width="600" height="400">
