@@ -520,7 +520,7 @@ Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du s
 **Etape 3** : Faites un clic droit sur le compte "Administrateur" et sélectionnez "Propriétés" 
 <img src="https://github.com/user-attachments/assets/33a84c9a-bd5f-4884-83fd-a7bc7fb64dce" width="600" height="400">
 
-**Etape 4** : Dans l'onglet "Général", cochez seulement la case "Le mot de passe n'expire jamais"  
+**Etape 4** : Dans l'onglet "Général", cochez seulement la case "Le mot de passe n'expire jamais", puis cliquez sur "OK"  
 <img src="https://github.com/user-attachments/assets/c0740af9-9836-4d5a-898b-23bfbe283b4e" width="600" height="400">
 
 **Etape 5** : Dans l'onglet "Membre de", cliquez sur le bouton "Ajouter"    
