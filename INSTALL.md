@@ -14,7 +14,8 @@
    * 2 .[Liaison nom et adresse IP](#liaison_nom_adresse_ip)  
 * c. [Installation Ultra VNC](#installation_ultra_vnc_client)  
 * d. [Désactivation du pare-feu](#desactivation_du_pare_feu_client)  
-* e. [Droits d'accès](#droits_acces_client)  
+* e. [Droits d'accès](#droits_acces_client)
+* f. [Configuration_Ultra_VNC](#configuration_ultra_vnc)    
 4. [FAQ](#faq)
 
 
@@ -485,8 +486,23 @@ Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du s
 <img src="https://github.com/user-attachments/assets/82b1c5b8-2463-4261-b58b-2f17ae380d6a" width="600" height="400">
 
 **Etape 8** : Valiez en cliquant sur le bouton "OK"  
-<img src="https://github.com/user-attachments/assets/e2d50807-e8d3-4389-ae04-bbfce106f9d5" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/e2d50807-e8d3-4389-ae04-bbfce106f9d5" width="600" height="400">  
 
+  
+**f. Configuration Ultra VNC**  
+<span id="configuration_ultra_vnc"></span>  
+
+**Etape 1** : Ouvrez la petite fenêtre en cliquant sur le symbole "^" pour afficher les applicaiton annexes     
+<img src="https://github.com/user-attachments/assets/66d37be7-28d0-49ab-b1f9-1f7e363cad4a" width="600" height="400">  
+
+**Etape 2** : Faites un clic droit sur l'icône ultravnc , puis sélectionnez "Admin Properties"  
+<img src="https://github.com/user-attachments/assets/17e45f77-aa61-479a-bea7-bbe0ea4331b4" width="600" height="400">  
+
+**Etape 3** : En haut à droite, dans la partie "VNC authentification", saisissez 2 mots de passe, un pour "VNC Password" et un autre pour "View-Only Password"  
+Nb : les deux mots de passe doivent être différents.  
+<img src="https://github.com/user-attachments/assets/413d0247-40b4-405f-9cfe-3b3d3edec9e9" width="600" height="400">    
+
+ 
 
 
 
