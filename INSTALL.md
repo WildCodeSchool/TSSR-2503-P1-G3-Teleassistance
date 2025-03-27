@@ -47,12 +47,12 @@ Cliquez en haut à gauche sur le nom du PC en bleu (ex: WinServ)
 
 ### Etape 2 :  
 ------------------
-Une nouvelle fênetre s'ouvre, cliquez sur le bouton "change" :  
+Une nouvelle fenêtre s'ouvre, cliquez sur le bouton "change" :  
 <img src="https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a" width="600" height="400">
 
 ### Etape 3 :  
 ------------------  
-Dans "Computer Name" taper le nouveau nom du PC (ex: SRVWIN01)  
+Dans "Computer Name" tapez le nouveau nom du PC (ex: SRVWIN01)  
 <img src="https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4" width="600" height="400">
 
 ### Etape 4 : 
@@ -100,7 +100,7 @@ Cliquez sur "properties", une nouvelle fenêtre s'ouvre
 
 ### Etape 7 :   
 ------------------  
-Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Properties"  
+Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit cochée, sinon cochez-là, puis cliquez sur "Properties"  
 <img src="https://github.com/user-attachments/assets/60c9d0bf-79cd-44f6-801a-75073ab7b95a" width="600" height="400">  
 
 ### Etape 8 :  
@@ -201,7 +201,7 @@ Vous arrivez sur une nouvelle page :
 Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
 Nb : Pour connaître l'architecture de votre PC:  
-Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" ; Dans View by (en haut à droite) séléctionnez "Small icons", dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "System type" si vous êtes en 32 bits ou 64 bits.  
+Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" ; Dans View by (en haut à droite) sélectionnez "Small icons", dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "System type" si vous êtes en 32 bits ou 64 bits.  
 <img src="https://github.com/user-attachments/assets/1a39e9e3-e34b-4e8d-86fa-5eb45f0aebd4" width="600" height="400">
 
 
@@ -217,7 +217,7 @@ Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouto
 
 ### Etape 10 :   
 ------------------ 
-Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
+Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre exécutable, dans l'exemple ("download")
 <img src="https://github.com/user-attachments/assets/b2dc52ec-e958-4724-8b81-a1b998b274dd" width="600" height="400">  
 
 ### Etape 11 :   
@@ -237,7 +237,7 @@ Cliquez sur OK
 
 ### Etape 14 :   
 ------------------ 
-Séléctionnez "I accept the agreement", puis cliquez sur "Next"  
+Sélectionnez "I accept the agreement", puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/791edb90-e35f-4b01-ad23-2750d54fddea" width="600" height="400">  
 
 ### Etape 15 :   
@@ -275,7 +275,7 @@ Cliquez sur "Finish"
 
 ### Etape 1 :   
 ------------------  
-Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"  
+Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l'application "Windows Defender Firewall with Advanced Security"  
 <img src="https://github.com/user-attachments/assets/06937f9e-e52e-4d5f-b86d-1129b0a0ad09" width="600" height="400">
 
 ### Etape 2 :   
@@ -285,17 +285,17 @@ Une nouvelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewa
 
 ### Etape 3 :   
 ------------------  
-Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"  
+Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state sélectionnez "off"  
 <img src="https://github.com/user-attachments/assets/77a7282e-bae7-423b-b58e-866e08ca3081" width="600" height="400">
 
 ### Etape 4 :   
 ------------------  
-Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"  
+Cliquez sur l'onglet "Private Profile", dans Firewall state sélectionnez "off"  
 <img src="https://github.com/user-attachments/assets/a79c713c-3f7e-4d0d-a59b-072f735e3790" width="600" height="400">  
 
 ### Etape 5 :   
 ------------------  
-Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"  
+Cliquez sur l'onglet "Public Profile", dans Firewall state sélectionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"  
 <img src="https://github.com/user-attachments/assets/242e478d-178e-48a2-b2b7-07c1a6c12c0e" width="600" height="400">
 
 
@@ -413,7 +413,7 @@ Décochez toutes les cases, puis cliquez sur le bouton "OK"
 ### Etape 22 :   
 ------------------   
 Les utilisateurs "Users" ont disparus, ce qui signifie qu'ils n'auront plus accès à UltraVNC.  
-Nb: Si vous avez une ligne "Everyone", faites un clic dessus, puis cliquez le sur bouton "Remove".  
+Nb: Si vous avez une ligne "Everyone", faites un clic dessus, puis cliquez sur le bouton "Remove".  
 Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la télé-assistance.  
 <img src="https://github.com/user-attachments/assets/31eae159-5243-4fd4-9d56-c76ca30151f8" width="600" height="400">  
 
@@ -454,7 +454,7 @@ Cliquez sur "Réseau"
 
 ### Etape 4 :   
 ------------------   
-Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"  
+Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" sélectionnez "Réseau interne", enfin cliquez sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/a4bb8fe3-ce1e-46e8-9809-8404b61c3ec4" width="600" height="400">  
 
 ### Etape 5 :   
@@ -471,17 +471,17 @@ Vous pouvez lancer votre machine virtuelle
 <span id="adressage_reseau_client"></span> 
 ### Etape 1 :   
 ------------------   
-En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
+En bas à droite, cliquez sur l'icône de l'ordinateur, une petite fenêtre apparaît  
 <img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
 
 ### Etape 2 :   
 ------------------   
-Cliquez sur "Paramètres du réseau ete internet"  
+Cliquez sur "Paramètres du réseau et internet"  
 <img src="https://github.com/user-attachments/assets/37807f5c-02b0-4089-be3f-19eed16c5a06" width="600" height="400">
 
 ### Etape 3 :   
 ------------------   
-Une nouvelle fenêtre "Etat, statu du réseau" s'ouvre  
+Une nouvelle fenêtre "Etat, statut du réseau" s'ouvre  
 <img src="https://github.com/user-attachments/assets/0a3374c1-231f-4ed0-938c-14971adb6582" width="600" height="400">
 
 ### Etape 4 :   
@@ -501,12 +501,12 @@ Faites un clic droit sur "Ethernet 2", puis cliquez sur "Propriétés"
 
 ### Etape 7 :   
 ------------------   
-Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Propriétés"  
+Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit cochée, sinon cochez-là, puis cliquez sur "Propriétés"  
 <img src="https://github.com/user-attachments/assets/19f49358-c22c-4a1d-8c41-079e1cbd51ce" width="600" height="400">
 
 ### Etape 8 :   
 ------------------   
-Une nouvelle fenêtre s'ouvre, séléctionnez "Utiliser l'adresse IP suivante" et notez pour "Adresse IP": 172.16.10.10, puis dans Masque de sous-réseau : 255.255.255.0 , puis cliquez sur "OK" pour valider :   
+Une nouvelle fenêtre s'ouvre, sélectionnez "Utiliser l'adresse IP suivante" et notez pour "Adresse IP": 172.16.10.10, puis dans Masque de sous-réseau : 255.255.255.0 , puis cliquez sur "OK" pour valider :   
 <img src="https://github.com/user-attachments/assets/d6b55b86-41e4-4a38-bc54-680035ecd750" width="600" height="400">
 
 
@@ -596,9 +596,9 @@ Descendez jusqu'à la section download et cliquez sur le lien bleu "download ult
 ### Etape 6 :   
 ------------------   
 Vous arrivez sur une nouvelle page, Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
-Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
+Nb : Si vous êtes en 32 bits, sélectionnez la version X86, si vous êtes en 64 bits sélectionnez la version X64  
 Nb : Pour connaître l'architecture de votre PC:  
-Dans la barre de recherche tapez "Système", puis séléctionnez "Système Panneau de configuration"  
+Dans la barre de recherche tapez "Système", puis sélectionnez "Système Panneau de configuration"  
 Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du système" si vous êtes en 32 bits ou 64 bits.      
 <img src="https://github.com/user-attachments/assets/e42457f6-0555-41b7-8c1a-f593ce08b6c6" width="600" height="400">
 
@@ -704,7 +704,7 @@ Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur l
 
 ### Etape 7 :   
 ------------------   
-Séléctionnez "Réseau privé"  
+Sélectionnez "Réseau privé"  
 <img src="https://github.com/user-attachments/assets/65a239f5-d51c-4706-9671-9e46259da5aa" width="600" height="400">
 
 ### Etape 8 :   
@@ -714,7 +714,7 @@ Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur l
 
 ### Etape 9 :   
 ------------------   
-Séléctionnez "Réseau public"  
+Sélectionnez "Réseau public"  
 <img src="https://github.com/user-attachments/assets/e55c1673-d035-4302-ba65-62ee400f2513" width="600" height="400">
 
 ### Etape 10 :   
@@ -783,7 +783,7 @@ Cliquez sur "OK"
 
 ### Etape 1 :   
 ------------------   
-Ouvrez la petite fenêtre en cliquant sur le symbole "^" pour afficher les applicaiton annexes     
+Ouvrez la petite fenêtre en cliquant sur le symbole "^" pour afficher les applications annexes     
 <img src="https://github.com/user-attachments/assets/66d37be7-28d0-49ab-b1f9-1f7e363cad4a" width="600" height="400">  
 
 ### Etape 2 :   
@@ -804,8 +804,8 @@ Nb : les deux mots de passe doivent être différents.
 # 4. FAQ
 <span id="faq"></span>  
 
-**Est-ce qu'un utilisateur standard peut se servir de la téléassistance ?**  
-Non, seuls les administrateurs peuvent se servir de l'assistance, que ce soit avec le bureau à distance ou UltraVNC.  
+**Est-ce qu'un utilisateur standard peut se servir de la télé-assistance ?**  
+Non, seuls les administrateurs peuvent se servir de la télé-assistance, que ce soit avec le bureau à distance ou UltraVNC.  
 
 **Est-il normal que UltraVNC Server soit sur le PC Client et UltraVNC Viewer soit sur le PC Server ?**  
 Oui, c'est tout à fait normal, VNC Server sert à établir le lien avec le PC qui fera l'assistance. Ultra VNC viewer sert à prendre le contrôle du PC à dépanner.  
