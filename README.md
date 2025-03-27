@@ -85,3 +85,5 @@
 <span id="ameliorations-possibles"></span>
 - Utilisation d'autres logiciels de télé-assistances possibles, [ici](https://www.appvizer.fr/services-informatiques/controle-distance) une liste d'autres logiciels utilisés (on y retrouve UltraVNC)  
 - Communications possibles entre des OS différents ( Linux <--> Windows )
+- Possibilité de changer le type réseau (Pont à pont ; réseau NAT...Etc)
+- Mise en place un Active Directory
