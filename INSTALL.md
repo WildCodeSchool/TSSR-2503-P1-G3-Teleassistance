@@ -112,28 +112,34 @@ puis dans Subnet mask : 255.255.255.0 , puis cliquez sur "OK" pour valider
  2. Liaison nom adresse IP   
 <span id="liaison_nom_adresse_ip_serveur"></span>
 
-**Etape 1** : Ouvrez l'explorateur de fichier (File Explorer)  
-
+### Etape 1 :   
+------------------  
+Ouvrez l'explorateur de fichier (File Explorer)  
 <img src="https://github.com/user-attachments/assets/6c54dcbe-afc4-46b0-92cd-b3f858a833c0" width="600" height="400">  
 
-**Etape 2** : Sélectionnez le Local Disk (C:), puis double-cliquez sur le dossier "Windows"  
-
+### Etape 2 :  
+------------------  
+Sélectionnez le Local Disk (C:), puis double-cliquez sur le dossier "Windows"
 <img src="https://github.com/user-attachments/assets/8c61bb08-c0cf-4c01-8c58-2677516a8397" width="600" height="400">
 
-**Etape 3** : Double-cliquez sur le dossier "System32"  
-
+### Etape 3 :    
+------------------  
+Double-cliquez sur le dossier "System32"  
 <img src="https://github.com/user-attachments/assets/c27ad5b2-01ca-4ddc-b38c-cd035a98137c" width="600" height="400">
 
-**Etape 4** : Double-cliquez sur le dossier "drivers"  
-
+### Etape 4 : 
+------------------  
+Double-cliquez sur le dossier "drivers"  
 <img src="https://github.com/user-attachments/assets/67a5731e-a169-453e-b873-e80215aa018f" width="600" height="400">
 
-**Etape 5** : Double-cliquez sur le dossier "etc"  
-
+### Etape 5 :   
+------------------  
+Double-cliquez sur le dossier "etc"  
 <img src="https://github.com/user-attachments/assets/e4dd0b57-c5ba-4ad9-819e-1fe3f88ac76b" width="600" height="400">
 
-**Etape 6** : Faites un clic droit sur le fichier "hosts", puis cliquez sur "Open with"  
-
+**Etape 6** :  
+------------------  
+Faites un clic droit sur le fichier "hosts", puis cliquez sur "Open with"   
 <img src="https://github.com/user-attachments/assets/7265b0f4-ba0d-49f9-90b0-506753341ab2" width="600" height="400">
 
 **Etape 7** : Sélectionnez un éditeur de texte (dans l'exemple: Notepad), puis cliquez sur "OK"  
