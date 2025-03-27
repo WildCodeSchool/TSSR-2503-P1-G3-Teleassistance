@@ -51,8 +51,8 @@ Une nouvelle fênetre s'ouvre, cliquez sur le bouton "change" :
 <img src="https://github.com/user-attachments/assets/0218466a-62a7-418f-9df0-4720b4e6be5a" width="600" height="400">
 
 ### Etape 3 :  
-------------------
-Dans "Computer Name" taper le nouveau nom du PC (ex: SRVWIN01  
+------------------  
+Dans "Computer Name" taper le nouveau nom du PC (ex: SRVWIN01)  
 <img src="https://github.com/user-attachments/assets/ed9de3de-e500-410f-afae-9e498fdb88d4" width="600" height="400">
 
 ### Etape 4 : 
@@ -95,7 +95,7 @@ Faites un clic droit sur l'icône "Ethernet 2"
 
 ### Etape 6 :   
 ------------------  
-Cliquez sur "properties", une nouvelle fenêtre s'ouvre
+Cliquez sur "properties", une nouvelle fenêtre s'ouvre  
 <img src="https://github.com/user-attachments/assets/488251b8-95cf-4813-8ccb-e04c61af2822" width="600" height="400">  
 
 ### Etape 7 :   
