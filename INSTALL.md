@@ -65,7 +65,7 @@ Cliquez sur le bouton OK,un message s'affiche pour vous indiquer qu'il faut red�
    ## b. Configuration Réseau  
 <span id="configuration_reseau_serveur"></span>  
 
- 1. Adressage réseau   
+ #### 1. Adressage réseau   
 <span id="adressage_reseau_serveur"></span>  
 
 ### Etape 1 : 
@@ -109,7 +109,7 @@ Une nouvelle fenêtre s'ouvre, séléctionnez "Use the following IP adress" et n
 puis dans Subnet mask : 255.255.255.0 , puis cliquez sur "OK" pour valider   
 <img src="https://github.com/user-attachments/assets/4fe3d904-735a-43fa-accb-23ad9030dcfc" width="600" height="400">
 
- 2. Liaison nom adresse IP   
+ ##### 2. Liaison nom adresse IP   
 <span id="liaison_nom_adresse_ip_serveur"></span>
 
 ### Etape 1 :   
@@ -161,7 +161,7 @@ Cliquez sur "File", puis "Save", enfin fermez le fichier
 
    
 
-   **c. Installation ULTRA VNC**  
+   ## c. Installation ULTRA VNC  
 <span id="installation_ultra_vnc_serveur"></span>  
 
 ### Etape 1 :   
@@ -270,7 +270,7 @@ Cliquez sur "Next"
 Cliquez sur "Finish"  
 <img src="https://github.com/user-attachments/assets/d69b28eb-745c-4eda-a9ef-6f1df44d95c4" width="600" height="400">  
 
-   **d. Désactivation du pare-feu**  
+   ## d. Désactivation du pare-feu  
 <span id="desactivation_du_pare_feu_serveur"></span>  
 
 ### Etape 1 :   
@@ -299,7 +299,7 @@ Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" 
 <img src="https://github.com/user-attachments/assets/242e478d-178e-48a2-b2b7-07c1a6c12c0e" width="600" height="400">
 
 
-   **e. Droits d' accès**  
+   ## e. Droits d' accès  
 <span id="droits_acces_serveur"></span>  
 
 NB : Dans l'exemple, nous allons voir comment modifier les droits d'accès de l'application UltraVNC.  
@@ -434,7 +434,7 @@ Pour finir, cliquez sur le bouton "OK"!
 <span id="installation-sur-le-client"></span>  
 
 
-   **a. Réseau VirtualBox** 
+   ## a. Réseau VirtualBox 
 <span id="virtualbox_reseau"></span>
 
 ### Etape 1 :   
@@ -464,10 +464,10 @@ Vous pouvez lancer votre machine virtuelle
 
 
 
-   **b. Configuration Réseau** 
+   ## b. Configuration Réseau 
 <span id="virtualbox_reseau"></span>
   
- 1. Adressage réseau  
+ #### 1. Adressage réseau  
 <span id="adressage_reseau_client"></span> 
 ### Etape 1 :   
 ------------------   
@@ -510,7 +510,7 @@ Une nouvelle fenêtre s'ouvre, séléctionnez "Utiliser l'adresse IP suivante" e
 <img src="https://github.com/user-attachments/assets/d6b55b86-41e4-4a38-bc54-680035ecd750" width="600" height="400">
 
 
-  2. Liaison nom et adresse IP
+  #### 2. Liaison nom et adresse IP
 <span id="liaison_nom_adresse_ip_client"></span> 
 
 ### Etape 1 :   
@@ -565,7 +565,7 @@ Tout en bas du fichier, notez l'adresse IP de la machine server (dans l'exemple 
 
 
 
-   **c. Installation Ultra VNC** 
+   ## c. Installation Ultra VNC  
 <span id="installation_ultra_vnc_client"></span>
 
 ### Etape 1 :   
@@ -669,87 +669,131 @@ Séléctionnez "Oui, redémarrer mon ordinateur maintenant", puis cliquez sur "T
 
 
 
-   **d. Désactivation du pare-feu** 
+   ## d. Désactivation du pare-feu 
 <span id="desactivation_du_pare_feu_client"></span>
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Pare-feu" et cliquez sur l'icône de l'application "Pare-feu Windows Defender"  
+### Etape 1 :   
+------------------   
+Sur le bureau, dans la barre de recherche, tapez "Pare-feu" et cliquez sur l'icône de l'application "Pare-feu Windows Defender"  
 <img src="https://github.com/user-attachments/assets/92d88ea8-8b37-4152-b91e-75462f15713a" width="600" height="400">
 
-**Etape 2** : Dans le menu à gauche, cliquez sur "Activer ou désactiver le pare-feu Windows Defender"  
+### Etape 2 :   
+------------------   
+Dans le menu à gauche, cliquez sur "Activer ou désactiver le pare-feu Windows Defender"  
 <img src="https://github.com/user-attachments/assets/af1b806f-2f8b-4252-bf59-8331b15f755b" width="600" height="400">
 
-**Etape 3** : Dans "Paramètres des réseaux privés" et "Paramètres des réseaux publics" cochez la case "Désactiver le Pare-feu Windows Defender", puis cliquez sur le bouton "OK"  
+### Etape 3 :   
+------------------   
+Dans "Paramètres des réseaux privés" et "Paramètres des réseaux publics" cochez la case "Désactiver le Pare-feu Windows Defender", puis cliquez sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/c2e47211-a009-4e2c-9482-8b6e33740a05" width="600" height="400">  
 
-**Etape 4** :  Sur le bureau, tapez dans la barre de recherche en bas "Pare-feu", puis séléctionnez "Pare-feu et protection du réseau"
+### Etape 4 :   
+------------------   
+Sur le bureau, tapez dans la barre de recherche en bas "Pare-feu", puis séléctionnez "Pare-feu et protection du réseau"
 <img src="https://github.com/user-attachments/assets/8049a188-8c78-4682-984c-a8b3529b9d34" width="600" height="400">
 
-**Etape 5** : Cliquez sur "Réseau avec domaine"  
+### Etape 5 :   
+------------------   
+Cliquez sur "Réseau avec domaine"  
 <img src="https://github.com/user-attachments/assets/77ae2d9a-afc7-457e-8d31-114696f9587c" width="600" height="400">
 
-**Etape 6** : Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé". Cliquez ensuite sur la flèche retour en haut à gauche  
+### Etape 6 :   
+------------------   
+Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé". Cliquez ensuite sur la flèche retour en haut à gauche  
 <img src="https://github.com/user-attachments/assets/6bf4180a-ba26-49af-8d5f-f37a96d209cd" width="600" height="400">
 
-**Etape 7** : Séléctionnez "Réseau privé"  
+### Etape 7 :   
+------------------   
+Séléctionnez "Réseau privé"  
 <img src="https://github.com/user-attachments/assets/65a239f5-d51c-4706-9671-9e46259da5aa" width="600" height="400">
 
-**Etape 8** : Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé". Cliquez ensuite sur la flèche retour en haut à gauche  
+### Etape 8 :   
+------------------   
+Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé". Cliquez ensuite sur la flèche retour en haut à gauche  
 <img src="https://github.com/user-attachments/assets/3e594bf2-2f61-4004-82c4-781024b2d81f" width="600" height="400">
 
-**Etape 9** : Séléctionnez "Réseau public"  
+### Etape 9 :   
+------------------   
+Séléctionnez "Réseau public"  
 <img src="https://github.com/user-attachments/assets/e55c1673-d035-4302-ba65-62ee400f2513" width="600" height="400">
 
-**Etape 10** : Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé".
+### Etape 10 :   
+------------------   
+Désactivez le Pare-feu en cliquant sur le bouton "Activé", il sera alors sur la position "Désactivé".
 <img src="https://github.com/user-attachments/assets/5b9b26bb-c209-4fc4-8c16-174daaf011b8" width="600" height="400">
 
-**Etape 11** : Cliquez ensuite sur la flèche retour en haut à gauche. Vous pouvez ensuite fermer la fenêtre.  
+### Etape 11 :   
+------------------   
+Cliquez ensuite sur la flèche retour en haut à gauche. Vous pouvez ensuite fermer la fenêtre.  
 <img src="https://github.com/user-attachments/assets/ea00a0dd-e063-450a-bb01-9bfdb2975234" width="600" height="400">
 
 
 
 
-   **e. Droits d' accès** 
+   ## e. Droits d' accès 
 <span id="droits_acces_client"></span>  
 
 NB : Pour les droits d'accès de UltraVNC et du Bureau à distance Windows,  
 suivre les mêmes étapes dans l'ordre du chapitre 2.e [ICI](#droits_acces_serveur).    
 
-**Etape 1** : Ouvrez l'explorateur de fichiers, puis faites un clic droit sur "Ce PC", puis cliquez sur "Gérer"  
+### Etape 1 :   
+------------------   
+Ouvrez l'explorateur de fichiers, puis faites un clic droit sur "Ce PC", puis cliquez sur "Gérer"  
 <img src="https://github.com/user-attachments/assets/304f61f0-22f3-49cd-9b73-6a40e02ca616" width="600" height="400">
 
-**Etape 2** : Une nouvelle fenêtre "Gestion de l'ordinateur" s'ouvre  
+### Etape 2:   
+------------------   
+Une nouvelle fenêtre "Gestion de l'ordinateur" s'ouvre  
 <img src="https://github.com/user-attachments/assets/6084995f-ab35-47fe-bc9d-c3827c823937" width="600" height="400">
 
-**Etape 3** : Faites un clic droit sur le compte "Administrateur" et sélectionnez "Propriétés" 
+### Etape 3 :   
+------------------   
+Faites un clic droit sur le compte "Administrateur" et sélectionnez "Propriétés" 
 <img src="https://github.com/user-attachments/assets/33a84c9a-bd5f-4884-83fd-a7bc7fb64dce" width="600" height="400">
 
-**Etape 4** : Dans l'onglet "Général", cochez seulement la case "Le mot de passe n'expire jamais", puis cliquez sur "OK"  
+### Etape 4 :   
+------------------   
+Dans l'onglet "Général", cochez seulement la case "Le mot de passe n'expire jamais", puis cliquez sur "OK"  
 <img src="https://github.com/user-attachments/assets/c0740af9-9836-4d5a-898b-23bfbe283b4e" width="600" height="400">
 
-**Etape 5** : Dans le menu à gauche, sélectionnez "Groupes", puis dans la fenêtre centrale, faites un clic-droit sur "Utilisateurs"  
+### Etape 5 :   
+------------------   
+Dans le menu à gauche, sélectionnez "Groupes", puis dans la fenêtre centrale, faites un clic-droit sur "Utilisateurs"  
 Puis cliquez sur "Ajouter au groupe..."  
 <img src="https://github.com/user-attachments/assets/66d01850-705c-476d-a599-1378303efddf" width="600" height="400">  
 
-**Etape 6** : Entrez le nom d'un utilisateur ( dans l'exemple: TheWilder)    
+### Etape 6 :   
+------------------   
+Entrez le nom d'un utilisateur ( dans l'exemple: TheWilder)    
 <img src="https://github.com/user-attachments/assets/fc5f4491-ef01-47ee-8a28-3aad74ac8205" width="600" height="400">  
 
-**Etape 7** : Cliquez sur le bouton à droite "Vérifier les noms"     
+### Etape 7 :   
+------------------   
+Cliquez sur le bouton à droite "Vérifier les noms"     
 <img src="https://github.com/user-attachments/assets/e03e29e6-1b53-4254-9340-1527fb0a2d86" width="600" height="400">
 
-**Etape 8** : Cliquez sur "OK"   
+### Etape 8 :   
+------------------   
+Cliquez sur "OK"   
 <img src="https://github.com/user-attachments/assets/c18f75f9-4ff0-4ba1-8a67-8d0766a37d21" width="600" height="400">  
 
   
-**f. Configuration Ultra VNC**  
+## f. Configuration Ultra VNC  
 <span id="configuration_ultra_vnc"></span>  
 
-**Etape 1** : Ouvrez la petite fenêtre en cliquant sur le symbole "^" pour afficher les applicaiton annexes     
+### Etape 1 :   
+------------------   
+Ouvrez la petite fenêtre en cliquant sur le symbole "^" pour afficher les applicaiton annexes     
 <img src="https://github.com/user-attachments/assets/66d37be7-28d0-49ab-b1f9-1f7e363cad4a" width="600" height="400">  
 
-**Etape 2** : Faites un clic droit sur l'icône ultravnc , puis sélectionnez "Admin Properties"  
+### Etape 2 :   
+------------------   
+Faites un clic droit sur l'icône ultravnc , puis sélectionnez "Admin Properties"  
 <img src="https://github.com/user-attachments/assets/17e45f77-aa61-479a-bea7-bbe0ea4331b4" width="600" height="400">  
 
-**Etape 3** : En haut à droite, dans la partie "VNC authentification", saisissez 2 mots de passe, un pour "VNC Password" et un autre pour "View-Only Password"  
+### Etape 3 :   
+------------------   
+En haut à droite, dans la partie "VNC authentification", saisissez 2 mots de passe, un pour "VNC Password" et un autre pour "View-Only Password"  
 Nb : les deux mots de passe doivent être différents.  
 <img src="https://github.com/user-attachments/assets/413d0247-40b4-405f-9cfe-3b3d3edec9e9" width="600" height="400">    
 
