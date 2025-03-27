@@ -137,22 +137,25 @@ Double-cliquez sur le dossier "drivers"
 Double-cliquez sur le dossier "etc"  
 <img src="https://github.com/user-attachments/assets/e4dd0b57-c5ba-4ad9-819e-1fe3f88ac76b" width="600" height="400">
 
-**Etape 6** :  
-------------------  
+### Etape 6 :   
+------------------   
 Faites un clic droit sur le fichier "hosts", puis cliquez sur "Open with"   
 <img src="https://github.com/user-attachments/assets/7265b0f4-ba0d-49f9-90b0-506753341ab2" width="600" height="400">
 
-**Etape 7** : Sélectionnez un éditeur de texte (dans l'exemple: Notepad), puis cliquez sur "OK"  
-
+### Etape 7 :   
+------------------ 
+Sélectionnez un éditeur de texte (dans l'exemple: Notepad), puis cliquez sur "OK"  
 <img src="https://github.com/user-attachments/assets/addbedc3-c870-48b6-a7cd-e5069762690b" width="600" height="400">
 
-**Etape 8** : Allez en bas du fichier, puis entrez l'adresse IP, appuyer sur la touche "TAB" (tabulation)  
+### Etape 8 :   
+------------------ 
+Allez en bas du fichier, puis entrez l'adresse IP, appuyer sur la touche "TAB" (tabulation)  
 puis entrez le nom de la machine du PC à contrôler (dans l'exemple : Win01).  
-
 <img src="https://github.com/user-attachments/assets/84725638-43a5-4739-941d-1378ec2081d8" width="600" height="400">
 
-**Etape 9** : Cliquez sur "File", puis "Save", enfin fermez le fichier    
-
+### Etape 9 :   
+------------------ 
+Cliquez sur "File", puis "Save", enfin fermez le fichier    
 <img src="https://github.com/user-attachments/assets/05402045-a256-491d-878a-ba2f6f7f5929" width="600" height="400">
 
 
@@ -161,95 +164,138 @@ puis entrez le nom de la machine du PC à contrôler (dans l'exemple : Win01).
    **c. Installation ULTRA VNC**  
 <span id="installation_ultra_vnc_serveur"></span>  
 
-**Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com) :  
-
+### Etape 1 :   
+------------------ 
+Ouvrez votre navigateur internet et tapez "ultravnc" et cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com) :  
 <img src="https://github.com/user-attachments/assets/b6146973-dabb-4412-b4cf-75201005a19b" width="600" height="400">
 
 
-**Etape 2** : Vous arrivez sur la page d'accueil du site :  
-
+### Etape 2 :   
+------------------ 
+Vous arrivez sur la page d'accueil du site :  
 <img src="https://github.com/user-attachments/assets/b5d4d41c-bd01-40e9-a03e-93980b531d7d" width="600" height="400">
 
 
-**Etape 3** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)  :  
-
+### Etape 3 :   
+------------------ 
+Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)  :  
 <img src="https://github.com/user-attachments/assets/e59a612b-1689-497b-86d6-6e40fdb74a28" width="600" height="400">
 
-**Etape 4** : Vous arrivez sur une nouvelle page de téléchargement de la version 1.4.3.6  :  
-
+### Etape 4 :   
+------------------ 
+Vous arrivez sur une nouvelle page de téléchargement de la version 1.4.3.6  :  
 <img src="https://github.com/user-attachments/assets/87be99f6-8096-4cd0-b4f3-0563ef5ffbfd" width="600" height="400">
 
-**Etape 5** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :  
-
+### Etape 5 :   
+------------------ 
+Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :  
 <img src="https://github.com/user-attachments/assets/e645fc83-d98e-4432-9620-11c900d14f95" width="600" height="400">
 
-**Etape 6** : Vous arrivez sur une nouvelle page :
-
+### Etape 6 :   
+------------------ 
+Vous arrivez sur une nouvelle page :
 <img src="https://github.com/user-attachments/assets/d0a6d84c-efbe-46bb-a3fa-997e88782160" width="600" height="400">
 
-**Etape 7** : Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
+### Etape 7 :   
+------------------ 
+Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
 Nb : Pour connaître l'architecture de votre PC:  
 Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" ; Dans View by (en haut à droite) séléctionnez "Small icons", dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "System type" si vous êtes en 32 bits ou 64 bits.  
-
 <img src="https://github.com/user-attachments/assets/1a39e9e3-e34b-4e8d-86fa-5eb45f0aebd4" width="600" height="400">
 
 
-**Etape 8** : Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.
+### Etape 8 :   
+------------------ 
+Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.
 <img src="https://github.com/user-attachments/assets/aaec19fa-f246-482c-8a6c-a1db43f99064" width="600" height="400">
 
-**Etape 9** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
+### Etape 9 :   
+------------------ 
+Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
 <img src="https://github.com/user-attachments/assets/0fdaca98-0afa-4ac0-823a-7ae82efabb94" width="600" height="400">  
 
-**Etape 10** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
+### Etape 10 :   
+------------------ 
+Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("download")
 <img src="https://github.com/user-attachments/assets/b2dc52ec-e958-4724-8b81-a1b998b274dd" width="600" height="400">  
 
-**Etape 11** : Une fenêtre s'ouvre avec votre exécutable  
+### Etape 11 :   
+------------------ 
+Une fenêtre s'ouvre avec votre exécutable  
 <img src="https://github.com/user-attachments/assets/6aab6c72-fcf5-4e93-850d-2c9ff5e94adc" width="600" height="400">  
 
-**Etape 12** : Faites un clic droit dessus et cliquez sur "Run as administrator"  
+### Etape 12 :   
+------------------ 
+Faites un clic droit dessus et cliquez sur "Run as administrator"  
 <img src="https://github.com/user-attachments/assets/a0bee6d3-2172-4f1a-8338-a39ffc2fb493" width="600" height="400">  
 
-**Etape 13** : Cliquez sur OK  
+### Etape 13 :   
+------------------ 
+Cliquez sur OK  
 <img src="https://github.com/user-attachments/assets/9f800f87-eabc-4186-a72c-14074dae8198" width="600" height="400">  
 
-**Etape 14** : Séléctionnez "I accept the agreement", puis cliquez sur "Next"  
+### Etape 14 :   
+------------------ 
+Séléctionnez "I accept the agreement", puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/791edb90-e35f-4b01-ad23-2750d54fddea" width="600" height="400">  
 
-**Etape 15** : Cliquez sur Next  
+### Etape 15 :   
+------------------ 
+Cliquez sur Next  
 <img src="https://github.com/user-attachments/assets/213fd4e6-1d35-4cff-add6-4e82f96760da" width="600" height="400">  
 
-**Etape 16** : Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"  
+### Etape 16 :   
+------------------ 
+Cochez la case "UltraVNC Viewer" puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/1404779c-7682-4d0e-a3e7-20efba772391" width="600" height="400">  
 
-**Etape 17** : Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"  
+### Etape 17 :   
+------------------ 
+Cochez la case "Create UltraVNC desktop icons" puis cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/52cb97b0-625d-48c9-ac02-61e8376d5d64" width="600" height="400">  
 
-**Etape 18** : Cliquez sur "Install"  
+### Etape 18 :   
+------------------ 
+Cliquez sur "Install"  
 <img src="https://github.com/user-attachments/assets/e4788497-71b2-4669-8032-13c4321d9a31" width="600" height="400">  
 
-**Etape 19** : Cliquez sur "Next"  
+### Etape 19 :   
+------------------ 
+Cliquez sur "Next"  
 <img src="https://github.com/user-attachments/assets/c286c3f1-ed63-4764-9475-de3ff04cab15" width="600" height="400">  
 
-**Etape 20** : Cliquez sur "Finish"  
+### Etape 20 :   
+------------------ 
+Cliquez sur "Finish"  
 <img src="https://github.com/user-attachments/assets/d69b28eb-745c-4eda-a9ef-6f1df44d95c4" width="600" height="400">  
 
    **d. Désactivation du pare-feu**  
 <span id="desactivation_du_pare_feu_serveur"></span>  
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"  
+### Etape 1 :   
+------------------  
+Sur le bureau, dans la barre de recherche, tapez "Firewall", puis cliquez sur l''application "Windows Defender Firewall with Advanced Security"  
 <img src="https://github.com/user-attachments/assets/06937f9e-e52e-4d5f-b86d-1129b0a0ad09" width="600" height="400">
 
-**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"  
+### Etape 2 :   
+------------------  
+Une nouvelle fenêtre s'ouvre, cliquez sur le lien bleu "Windows Defender Firewall Properties"  
 <img src="https://github.com/user-attachments/assets/bf8fcfa7-fad4-410e-9545-f37e746f5897" width="600" height="400">
 
-**Etape 3** : Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"  
+### Etape 3 :   
+------------------  
+Une nouvelle fenêtre s'ouvre et vous arrivez sur l'onglet "Domain Profile", dans Firewall state séléctionnez "off"  
 <img src="https://github.com/user-attachments/assets/77a7282e-bae7-423b-b58e-866e08ca3081" width="600" height="400">
 
-**Etape 4** : Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"  
+### Etape 4 :   
+------------------  
+Cliquez sur l'onglet "Private Profile", dans Firewall state séléctionnez "off"  
 <img src="https://github.com/user-attachments/assets/a79c713c-3f7e-4d0d-a59b-072f735e3790" width="600" height="400">  
 
-**Etape 5** : Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"  
+### Etape 5 :   
+------------------  
+Cliquez sur l'onglet "Public Profile", dans Firewall state séléctionnez "off" , puis cliquez sur le bouton "Apply", puis "OK"  
 <img src="https://github.com/user-attachments/assets/242e478d-178e-48a2-b2b7-07c1a6c12c0e" width="600" height="400">
 
 
@@ -259,78 +305,126 @@ Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" 
 NB : Dans l'exemple, nous allons voir comment modifier les droits d'accès de l'application UltraVNC.  
 Pour les droits d'accès du Bureau à distance Windows, suivre les mêmes étapes dans l'ordre, mais en adaptant avec l'application du bureau à distance. 
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting" (Paramètres), puis cliquez sur l'application "Settings" (Paramètres)  
+### Etape 1 :   
+------------------  
+Sur le bureau, dans la barre de recherche, tapez "Setting" (Paramètres), puis cliquez sur l'application "Settings" (Paramètres)  
 <img src="https://github.com/user-attachments/assets/da853e0d-7dc5-4a0e-afdc-ef4b3dbb791e" width="600" height="400">  
 
-**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts" (Comptes)   
+### Etape 2 :   
+------------------  
+Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts" (Comptes)   
 <img src="https://github.com/user-attachments/assets/2d0941c8-c6df-4cff-9875-3b6b4c10e3ac" width="600" height="400">  
 
-**Etape 3** : Dans le menu à gauche, cliquez sur " Other users" (Autres utilisateurs)      
+### Etape 3 :   
+------------------  
+Dans le menu à gauche, cliquez sur " Other users" (Autres utilisateurs)      
 <img src="https://github.com/user-attachments/assets/720942f8-f83d-4c99-93b3-d7d2ef521e13" width="600" height="400">  
 
-**Etape 4** :  Cliquez sur l'utilisateur dont vous voulez gérer les accès   
+### Etape 4 :   
+------------------   
+Cliquez sur l'utilisateur dont vous voulez gérer les accès   
 <img src="https://github.com/user-attachments/assets/d8fe9ee7-9a65-4ed4-a6bf-5344a1295473" width="600" height="400">  
 
-**Etape 5** : Cliquez sur "Change account type" (Changer le type de compte)  
+### Etape 5 :   
+------------------   
+Cliquez sur "Change account type" (Changer le type de compte)  
 <img src="https://github.com/user-attachments/assets/806e5697-f708-4e2a-83d0-adf8b89b0058" width="600" height="400">  
 
-**Etape 6** : Dans "Account type" sélectionnez "Standard User"  (Utilisateur standard)  
+### Etape 6 :   
+------------------   
+Dans "Account type" sélectionnez "Standard User"  (Utilisateur standard)  
 <img src="https://github.com/user-attachments/assets/cccd9b88-d3fa-4177-ad92-f8dcf004a555" width="600" height="400">  
 
-**Etape 7** : Cliquez sur le bouton "OK"  
+### Etape 75 :   
+------------------   
+Cliquez sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/148c9cd0-d35d-4746-aee8-8aed24469d95" width="600" height="400">  
 
-**Etape 8** : L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.  
+### Etape 8 :   
+------------------   
+L'utilisateur "Wilder" est maintenant sélectionné en Local account. Fermez la fenêtre.  
 <img src="https://github.com/user-attachments/assets/1e353067-96dd-4803-b9b6-2b94d685cdd5" width="600" height="400">  
 
-**Etape 9** : Sur le bureau, dans la barre du menu, tapez "Ultra" afin de voir apparaître l'icone du logiciel, puis faites un clic droit dessus et cliquez sur "Open file location" (ouvrir l'emplacement du fichier)        
+### Etape 9 :   
+------------------   
+Sur le bureau, dans la barre du menu, tapez "Ultra" afin de voir apparaître l'icone du logiciel, puis faites un clic droit dessus et cliquez sur "Open file location" (ouvrir l'emplacement du fichier)        
 <img src="https://github.com/user-attachments/assets/8190e76f-72fd-4cac-a03a-c23ba0713e41" width="600" height="400">  
 
-**Etape 10** : La fenêtre avec le dossier d'Ultra VNC s'ouvre    
+### Etape 10 :   
+------------------   
+La fenêtre avec le dossier d'Ultra VNC s'ouvre    
 <img src="https://github.com/user-attachments/assets/bbd4b0ae-7a45-4475-a125-62b7f813f9b3" width="600" height="400">  
 
-**Etape 11** : Faites un clic droit sur "UltraVNC Viewer", puis sélectionnez "Properties" (pour le côté client : UltraVNC Server ; puis Propriétés)     
+### Etape 11 :   
+------------------   
+Faites un clic droit sur "UltraVNC Viewer", puis sélectionnez "Properties" (pour le côté client : UltraVNC Server ; puis Propriétés)     
 <img src="https://github.com/user-attachments/assets/121958f2-860a-4243-a0e0-ad60a98870fb" width="600" height="400">
 
-**Etape 12** : Une fenêtre s'ouvre     
+### Etape 12 :   
+------------------   
+Une fenêtre s'ouvre     
 <img src="https://github.com/user-attachments/assets/7b2ba7dc-d063-4a38-a878-835a61daeaa9" width="600" height="400">
 
-**Etape 13** : Dans l'onglet "Security"  (Sécurité)  
+### Etape 13 :   
+------------------   
+Dans l'onglet "Security"  (Sécurité)  
 <img src="https://github.com/user-attachments/assets/cd34c718-7261-44bc-a203-9886be9e3375" width="600" height="400">  
 
-**Etape 14** : Sélectionnez "Users" (Utilisateurs), puis cliquez sur "Advanced" (Avancé) 
+### Etape 14 :   
+------------------   
+Sélectionnez "Users" (Utilisateurs), puis cliquez sur "Advanced" (Avancé) 
 <img src="https://github.com/user-attachments/assets/18ceb73c-fc71-4541-8225-09ede1d7b3b8" width="600" height="400">
 
-**Etape 15** : Une nouvelle fenêtre s' ouvre    
+### Etape 15 :   
+------------------   
+Une nouvelle fenêtre s' ouvre    
 <img src="https://github.com/user-attachments/assets/7f657245-5fae-423b-a1cc-41faabb3f8a1" width="600" height="400">
 
-**Etape 16** : Faites un clic sur "Users" (Utilisateurs ) pour le sélectionner , puis cliquez sur "Disable inheritance" (Désactiver l'héritage)     
+### Etape 16 :   
+------------------   
+Faites un clic sur "Users" (Utilisateurs ) pour le sélectionner , puis cliquez sur "Disable inheritance" (Désactiver l'héritage)     
 <img src="https://github.com/user-attachments/assets/387736b0-228e-4e09-8e10-b54ad9c581f5" width="600" height="400">
 
-**Etape 17** : Cliquez sur "Convert inherited permissions into explicit permissions on this object" (Convertir les autorisations héritées en autorisations explicites sur cet objet)   
+### Etape 17 :   
+------------------   
+Cliquez sur "Convert inherited permissions into explicit permissions on this object" (Convertir les autorisations héritées en autorisations explicites sur cet objet)   
 <img src="https://github.com/user-attachments/assets/152e0c07-d39b-445f-a310-2056b11c52b4" width="600" height="400">
 
-**Etape 18** : Le bouton "Disable inheritance"(Désactiver l'héritage) devient "Enable inheritance" (Activer l'héritage)   
+### Etape 18 :   
+------------------   
+Le bouton "Disable inheritance"(Désactiver l'héritage) devient "Enable inheritance" (Activer l'héritage)   
 <img src="https://github.com/user-attachments/assets/a64e0404-13cb-4366-a955-f42b66abf489" width="600" height="400">  
 
-**Etape 19** : Sélectionnez la ligne "Users" (Utilisateurs) , puis cliquez sur le bouton "Edit" (Editer)     
+### Etape 19 :   
+------------------   
+Sélectionnez la ligne "Users" (Utilisateurs) , puis cliquez sur le bouton "Edit" (Editer)     
 <img src="https://github.com/user-attachments/assets/00a2a04d-fbab-454e-bd01-30e214ee6efe" width="600" height="400">  
 
-**Etape 20** : Sélectionnez le type "Allow" (Autoriser)  
+### Etape 20 :   
+------------------   
+Sélectionnez le type "Allow" (Autoriser)  
 <img src="https://github.com/user-attachments/assets/09b0aba7-c011-40a2-9100-a1bffe8b5b4f" width="600" height="400">  
 
-**Etape 21** : Décochez toutes les cases, puis cliquez sur le bouton "OK"   
+### Etape 21 :   
+------------------   
+Décochez toutes les cases, puis cliquez sur le bouton "OK"   
 <img src="https://github.com/user-attachments/assets/e2cda129-9898-42dc-973c-de53f1c70b10" width="600" height="400">  
 
-**Etape 22** : Les utilisateurs "Users" ont disparus, ce qui signifie qu'ils n'auront plus accès à UltraVNC.  
+### Etape 22 :   
+------------------   
+Les utilisateurs "Users" ont disparus, ce qui signifie qu'ils n'auront plus accès à UltraVNC.  
 Nb: Si vous avez une ligne "Everyone", faites un clic dessus, puis cliquez le sur bouton "Remove".  
 Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la télé-assistance.  
 <img src="https://github.com/user-attachments/assets/31eae159-5243-4fd4-9d56-c76ca30151f8" width="600" height="400">  
 
-**Etape 23** : Cliquez sur le bouton "Apply" (Appliquer), puis sur le bouton "OK"   
+### Etape 23 :   
+------------------   
+Cliquez sur le bouton "Apply" (Appliquer), puis sur le bouton "OK"   
 <img src="https://github.com/user-attachments/assets/401fee33-5831-453f-93b6-d73c1077248b" width="600" height="400">  
 
-**Etape 24** : Pour finir, cliquez sur le bouton "OK"!  
+### Etape 24 :   
+------------------   
+Pour finir, cliquez sur le bouton "OK"!  
 <img src="https://github.com/user-attachments/assets/95463b6e-810a-4693-be73-e2b6528a3611" width="600" height="400">  
 
 
