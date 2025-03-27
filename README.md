@@ -15,10 +15,11 @@
 # **La Téléassistance**
 
 **Présentation**
-> Le but du projet est de mettre en place une **_Téléassistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows sur un réseau local entre les différentes machines
+> Le but du projet est de mettre en place une **_Télé-assistance_** entre un serveur et un client, via l'utilisation du logiciel **_UltraVNC_** et du **_Bureau à distance_** natif de Windows sur un réseau local entre les différentes machines
 
 **Objectifs finaux**
 - Etablissement d'une connexion Local entre 2 machines virtuelles, un _Serveur_ et un _Client_.
+- Effectuer une assistance à distance
 - Attribution de droits différents pour chaque logiciels et groupes d'utilisateurs pour le _Serveur_ et le _Client_
 
 
@@ -32,7 +33,7 @@
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
 | [Mamadou](https://github.com/DRAME1991) | PO         | -    Création Du Backlog - Organisation de la première présentation |
-| [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations des Sprints - Gestion des droits d'accès d'utilisateurs  |
+| [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations du Sprint 1 - Gestion des droits d'accès d'utilisateurs  |
 | [Johnathan](https://github.com/TheHorusLab) | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_ - Paramétrage **UltraVNC** |
 
 
@@ -40,9 +41,9 @@
 
 | Membre   | Rôle       | Missions |
 | -------- | ---------- | -------- |
-| [Mamadou](https://github.com/DRAME1991)  | Technicien | -  Paramétrage Bureau à distance  - Gestion des droits d'accès d'utilisateurs |
-| [Florian](https://github.com/Juverios) | Technicien | -     Paramétrage Bureau à distance - Gestion des droits d'accès d'utilisateurs  |
-| [Johnathan](https://github.com/TheHorusLab) | PO         | - Paramétrage Bureau à distance  - Gestion des droits d'accès d'utilisateurs     |
+| [Mamadou](https://github.com/DRAME1991)  | SM | -  Organisation du Sprint 2 - Mise en place de la présentation finale |
+| [Florian](https://github.com/Juverios) | Technicien | - Documentation du USER_GUIDE.MD & README.MD  |
+| [Johnathan](https://github.com/TheHorusLab) | PO         | - Documentation de INSTALL.MD  -  Vérification des attentes du client pour le Projets   |
 
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
@@ -70,7 +71,8 @@
 
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
-- Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) 
+- Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html)
+  
 
 # 💡 Solutions trouvées
 <span id="solutions-trouvees"></span>
