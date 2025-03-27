@@ -192,8 +192,8 @@ Descendez jusqu'à la section download et cliquez sur le lien bleu "download ult
 <img src="https://github.com/user-attachments/assets/e645fc83-d98e-4432-9620-11c900d14f95" width="600" height="400">
 
 ### Etape 6 :   
------------------- 
-Vous arrivez sur une nouvelle page :
+------------------   
+Vous arrivez sur une nouvelle page :  
 <img src="https://github.com/user-attachments/assets/d0a6d84c-efbe-46bb-a3fa-997e88782160" width="600" height="400">
 
 ### Etape 7 :   
