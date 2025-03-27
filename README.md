@@ -72,11 +72,16 @@
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
 - Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html)
-  
+- Problème de transferts de dossiers avec UltraVNC  
+    
 
 # 💡 Solutions trouvées
 <span id="solutions-trouvees"></span>
 - Instruction d'installation et d'utilisation du logiciel [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html) via [Youtube](https://www.youtube.com/watch?v=QO-NhJYqR8I)
+- Conditions de transfert d'un dossier via UltraVNC
 
+  
 # 🚀 Améliorations possibles
 <span id="ameliorations-possibles"></span>
+- Utilisation d'autres logiciels de télé-assistances possibles, [ici](https://www.appvizer.fr/services-informatiques/controle-distance) une liste d'autres logiciels utilisés (on y retrouve UltraVNC)  
+- Communications possibles entre des OS différents ( Linux <--> Windows )
