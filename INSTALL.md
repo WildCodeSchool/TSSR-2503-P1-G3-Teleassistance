@@ -240,22 +240,22 @@ Dans la barre de recherche tapez "control", puis séléctionnez "Control Panel" 
 NB : Dans l'exemple, nous allons voir comment modifier les droits d'accès de l'application UltraVNC.  
 Pour les droits d'accès du Bureau à distance Windows, suivre les mêmes étapes dans l'ordre, mais en adaptant avec l'application du bureau à distance. 
 
-**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting", puis cliquez sur l'application "Settings"  
+**Etape 1** : Sur le bureau, dans la barre de recherche, tapez "Setting" (Paramètres), puis cliquez sur l'application "Settings" (Paramètres)  
 <img src="https://github.com/user-attachments/assets/da853e0d-7dc5-4a0e-afdc-ef4b3dbb791e" width="600" height="400">  
 
-**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts" (comptes)   
+**Etape 2** : Une nouvelle fenêtre s'ouvre, cliquez sur "Accounts" (Comptes)   
 <img src="https://github.com/user-attachments/assets/2d0941c8-c6df-4cff-9875-3b6b4c10e3ac" width="600" height="400">  
 
-**Etape 3** : Dans le menu à gauche, cliquez sur " Other users" (autres utilisateurs)      
+**Etape 3** : Dans le menu à gauche, cliquez sur " Other users" (Autres utilisateurs)      
 <img src="https://github.com/user-attachments/assets/720942f8-f83d-4c99-93b3-d7d2ef521e13" width="600" height="400">  
 
 **Etape 4** :  Cliquez sur l'utilisateur dont vous voulez gérer les accès   
 <img src="https://github.com/user-attachments/assets/d8fe9ee7-9a65-4ed4-a6bf-5344a1295473" width="600" height="400">  
 
-**Etape 5** : Cliquez sur "Change account type" (changer le type de compte)  
+**Etape 5** : Cliquez sur "Change account type" (Changer le type de compte)  
 <img src="https://github.com/user-attachments/assets/806e5697-f708-4e2a-83d0-adf8b89b0058" width="600" height="400">  
 
-**Etape 6** : Dans "Account type" sélectionnez "Standard User"  (utilisateur standard)  
+**Etape 6** : Dans "Account type" sélectionnez "Standard User"  (Utilisateur standard)  
 <img src="https://github.com/user-attachments/assets/cccd9b88-d3fa-4177-ad92-f8dcf004a555" width="600" height="400">  
 
 **Etape 7** : Cliquez sur le bouton "OK"  
@@ -279,26 +279,25 @@ Pour les droits d'accès du Bureau à distance Windows, suivre les mêmes étape
 **Etape 13** : Dans l'onglet "Security"  (Sécurité)  
 <img src="https://github.com/user-attachments/assets/cd34c718-7261-44bc-a203-9886be9e3375" width="600" height="400">  
 
-**Etape 14** : Sélectionnez "Users" (utilisateurs), puis cliquez sur "Advanced" (avancé) 
+**Etape 14** : Sélectionnez "Users" (Utilisateurs), puis cliquez sur "Advanced" (Avancé) 
 <img src="https://github.com/user-attachments/assets/18ceb73c-fc71-4541-8225-09ede1d7b3b8" width="600" height="400">
 
 **Etape 15** : Une nouvelle fenêtre s' ouvre    
 <img src="https://github.com/user-attachments/assets/7f657245-5fae-423b-a1cc-41faabb3f8a1" width="600" height="400">
 
-**Etape 16** : Faites un clic sur "Users" (utilisateurs ) pour le sélectionner , puis cliquez sur "Disable inheritance" (Désactiver l'héritage)     
+**Etape 16** : Faites un clic sur "Users" (Utilisateurs ) pour le sélectionner , puis cliquez sur "Disable inheritance" (Désactiver l'héritage)     
 <img src="https://github.com/user-attachments/assets/387736b0-228e-4e09-8e10-b54ad9c581f5" width="600" height="400">
 
 **Etape 17** : Cliquez sur "Convert inherited permissions into explicit permissions on this object" (Convertir les autorisations héritées en autorisations explicites sur cet objet)   
 <img src="https://github.com/user-attachments/assets/152e0c07-d39b-445f-a310-2056b11c52b4" width="600" height="400">
 
-**Etape 18** : Le bouton "Disable inheritance"(Désactiver l'héritage) devient "Enable inheritance" (
-Activer l'héritage)   
+**Etape 18** : Le bouton "Disable inheritance"(Désactiver l'héritage) devient "Enable inheritance" (Activer l'héritage)   
 <img src="https://github.com/user-attachments/assets/a64e0404-13cb-4366-a955-f42b66abf489" width="600" height="400">  
 
-**Etape 19** : Sélectionnez la ligne "Users" (utilisateurs) , puis cliquez sur le bouton "Edit" (éditer)     
+**Etape 19** : Sélectionnez la ligne "Users" (Utilisateurs) , puis cliquez sur le bouton "Edit" (Editer)     
 <img src="https://github.com/user-attachments/assets/00a2a04d-fbab-454e-bd01-30e214ee6efe" width="600" height="400">  
 
-**Etape 20** : Sélectionnez le type "Allow" (autoriser)  
+**Etape 20** : Sélectionnez le type "Allow" (Autoriser)  
 <img src="https://github.com/user-attachments/assets/09b0aba7-c011-40a2-9100-a1bffe8b5b4f" width="600" height="400">  
 
 **Etape 21** : Décochez toutes les cases, puis cliquez sur le bouton "OK"   
@@ -309,7 +308,7 @@ Nb: Si vous avez une ligne "Everyone", faites un clic dessus, puis cliquez le su
 Ainsi, vous serez sûr que seuls les administrateurs pourront avoir accès à la télé-assistance.  
 <img src="https://github.com/user-attachments/assets/31eae159-5243-4fd4-9d56-c76ca30151f8" width="600" height="400">  
 
-**Etape 23** : Cliquez sur le bouton "Apply" (appliquer), puis sur le bouton "OK"   
+**Etape 23** : Cliquez sur le bouton "Apply" (Appliquer), puis sur le bouton "OK"   
 <img src="https://github.com/user-attachments/assets/401fee33-5831-453f-93b6-d73c1077248b" width="600" height="400">  
 
 **Etape 24** : Pour finir, cliquez sur le bouton "OK"!  
