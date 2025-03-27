@@ -78,7 +78,7 @@ Sur le bureau, dans la barre de recherche, taper "server" ou "man", vous devriez
  La fenêtre du Dashboad s'affiche, dans le menu à gauche cliquez sur "Local Server"
 <img src="https://github.com/user-attachments/assets/e148995a-660e-4d62-935e-a6f37fce0033" width="600" height="400">
 
-### Etape 3** : 
+### Etape 3 : 
 ------------------
 Cliquez ensuite sur l'adresse IP (lien en bleu) de l'ethernet 2  
 <img src="https://github.com/user-attachments/assets/00a41860-3262-449a-80fd-a9bd7621dbf4" width="600" height="400">
