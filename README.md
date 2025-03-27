@@ -72,7 +72,7 @@
 # 🧗 Difficultés rencontrées
 <span id="difficultes-rencontrees"></span>
 - Logiciels inconnus [**UltraVNC 1.4.3.6**](https://uvnc.com/downloads/ultravnc/159-ultravnc-1-4-3-6.html)
-- Problème de transferts de dossiers avec UltraVNC  
+- Problème de transfert de dossiers avec UltraVNC  
     
 
 # 💡 Solutions trouvées
