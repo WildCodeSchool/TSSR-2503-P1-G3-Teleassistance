@@ -156,5 +156,14 @@ _(EX: Ici on choisis l'ip de notre machine client connecté en local)_
 <span id="faq"></span>
 
 1. **J'essaie de tranférer un dossier avec UltraVNC mais j'ai un message d'erreur**
+
 --> Le transfert d'un dossier ne peut avoir lieu que s'il contient au moins un fichier. Les dossiers vides ne peuvent être transférés.
+
+2. **Pourquoi ne puis-je pas me connecter à un PC distant via le Bureau à Distance ?**
+
+--> Par défaut seulements les comptes avec des droits d'Administrateur peuvent se connecter a distance. Si vous pouvez voir l’écran de connexion du PC distant, mais que vous ne pouvez pas vous connecter, vous n’êtes peut-être pas ajouté au groupe _Utilisateurs Bureau à distance_ ou à un groupe avec des droits d’administrateur sur le PC distant. Demandez à votre administrateur système de vous ajouter au groupe approprié.
+
+3. **Est-il possible de se connecter à distance sur des système d'exploitations différents ?**
+
+--> Oui c'est possibles
 
