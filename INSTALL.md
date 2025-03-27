@@ -437,19 +437,29 @@ Pour finir, cliquez sur le bouton "OK"!
    **a. Réseau VirtualBox** 
 <span id="virtualbox_reseau"></span>
 
-**Etape 1** : Lancez VirtualBox et cliquez sur votre machine virtuelle (dans l'exemple : Win01), puis cliquez sur la roue crantée en orange "Configuration"  
+### Etape 1 :   
+------------------   
+Lancez VirtualBox et cliquez sur votre machine virtuelle (dans l'exemple : Win01), puis cliquez sur la roue crantée en orange "Configuration"  
 <img src="https://github.com/user-attachments/assets/8ded1ca3-acea-4a44-b20b-ac1f42932cd5" width="600" height="400">
 
-**Etape 2** : Sélectionnez le mode Expert  
+### Etape 2 :   
+------------------   
+Sélectionnez le mode Expert  
 <img src="https://github.com/user-attachments/assets/cd75eb0a-3537-47cb-8d20-7415a63df585" width="600" height="400">  
 
-**Etape 3** : Cliquez sur "Réseau"  
+### Etape 3 :   
+------------------   
+Cliquez sur "Réseau"  
 <img src="https://github.com/user-attachments/assets/2e0f3cbe-41a1-46ca-b7a2-d489064621e8" width="600" height="400">  
 
-**Etape 4** : Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"  
+### Etape 4 :   
+------------------   
+Cliquez sur "Adapter 2", puis dans "Mode d'accès réseau" séléctionnez "Réseau interne", enfin cliquez sur le bouton "OK"  
 <img src="https://github.com/user-attachments/assets/a4bb8fe3-ce1e-46e8-9809-8404b61c3ec4" width="600" height="400">  
 
-**Etape 5** : Vous pouvez lancer votre machine virtuelle  
+### Etape 5 :   
+------------------   
+Vous pouvez lancer votre machine virtuelle  
 <img src="https://github.com/user-attachments/assets/74e3a4b0-04e5-4a38-a4ce-51dddfd09649" width="600" height="400">  
 
 
@@ -459,62 +469,98 @@ Pour finir, cliquez sur le bouton "OK"!
   
  1. Adressage réseau  
 <span id="adressage_reseau_client"></span> 
-**Etape 1** : En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
+### Etape 1 :   
+------------------   
+En bas à droite, cliquez qur l'icône de l'ordinateur, une petite fenêtre apparaît  
 <img src="https://github.com/user-attachments/assets/31de87e1-97de-4766-b92f-c3df42ee137a" width="600" height="400">
 
-**Etape 2** : Cliquez sur "Paramètres du réseau ete internet"  
+### Etape 2 :   
+------------------   
+Cliquez sur "Paramètres du réseau ete internet"  
 <img src="https://github.com/user-attachments/assets/37807f5c-02b0-4089-be3f-19eed16c5a06" width="600" height="400">
 
-**Etape 3** : Une nouvelle fenêtre "Etat, statu du réseau" s'ouvre  
+### Etape 3 :   
+------------------   
+Une nouvelle fenêtre "Etat, statu du réseau" s'ouvre  
 <img src="https://github.com/user-attachments/assets/0a3374c1-231f-4ed0-938c-14971adb6582" width="600" height="400">
 
-**Etape 4** : Descendez jusqu'aux "Paramètres réseau avancés", puis cliquez sur "Modifier les options d'adaptateur"  
+### Etape 4 :   
+------------------   
+Descendez jusqu'aux "Paramètres réseau avancés", puis cliquez sur "Modifier les options d'adaptateur"  
 <img src="https://github.com/user-attachments/assets/f833bdc5-c6a6-4a48-b0e4-dc4723772a5a" width="600" height="400">
 
-**Etape 5** : Une nouvelle fenêtre "connexion réseau" s'affiche  
+### Etape 5 :   
+------------------   
+Une nouvelle fenêtre "connexion réseau" s'affiche  
 <img src="https://github.com/user-attachments/assets/cda09895-ea8c-46fd-81ae-74d72f60f2d8" width="600" height="400">
 
-**Etape 6** : Faites un clic droit sur "Ethernet 2", puis cliquez sur "Propriétés"  
+### Etape 6 :   
+------------------   
+Faites un clic droit sur "Ethernet 2", puis cliquez sur "Propriétés"  
 <img src="https://github.com/user-attachments/assets/10e13df6-4128-4c3a-affb-b62a4e9e752d" width="600" height="400">
 
-**Etape 7** : Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Propriétés"  
+### Etape 7 :   
+------------------   
+Vérifier que la case "Internet Protocol Version 4 (TCP/IPv4) soit coché, sinon cochez-là, puis cliquez sur "Propriétés"  
 <img src="https://github.com/user-attachments/assets/19f49358-c22c-4a1d-8c41-079e1cbd51ce" width="600" height="400">
 
-**Etape 8** : Une nouvelle fenêtre s'ouvre, séléctionnez "Utiliser l'adresse IP suivante" et notez pour "Adresse IP": 172.16.10.10, puis dans Masque de sous-réseau : 255.255.255.0 , puis cliquez sur "OK" pour valider :   
+### Etape 8 :   
+------------------   
+Une nouvelle fenêtre s'ouvre, séléctionnez "Utiliser l'adresse IP suivante" et notez pour "Adresse IP": 172.16.10.10, puis dans Masque de sous-réseau : 255.255.255.0 , puis cliquez sur "OK" pour valider :   
 <img src="https://github.com/user-attachments/assets/d6b55b86-41e4-4a38-bc54-680035ecd750" width="600" height="400">
 
 
   2. Liaison nom et adresse IP
 <span id="liaison_nom_adresse_ip_client"></span> 
 
-**Etape 1** : Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
+### Etape 1 :   
+------------------   
+Ouvrez votre explorateur de fichier, puis dans le menu à gauche, cliquez sur "Ce PC"   
 <img src="https://github.com/user-attachments/assets/11a86726-dc7d-41ac-9066-c17a6b4aa840" width="600" height="400">
 
-**Etape 2** : Double cliquez sur votre Disque local (C:)  
+### Etape 2 :   
+------------------   
+Double cliquez sur votre Disque local (C:)  
 <img src="https://github.com/user-attachments/assets/92ff2f4d-5442-49f8-b6e0-05b9ab3ccece" width="600" height="400">
 
-**Etape 3** : Allez dans le dossier "Windows"  
+### Etape 3 :   
+------------------   
+Allez dans le dossier "Windows"  
 <img src="https://github.com/user-attachments/assets/010fb725-00f5-4ee8-80fb-b69a52611525" width="600" height="400">
 
-**Etape 4** : Allez dans le dossier "System32"  
+### Etape 4 :   
+------------------   
+Allez dans le dossier "System32"  
 <img src="https://github.com/user-attachments/assets/a44ff4c5-95c4-4d05-95c8-61e64587c09f" width="600" height="400">
 
-**Etape 5** : Allez dans le dossier "drivers"  
+### Etape 5 :   
+------------------   
+Allez dans le dossier "drivers"  
 <img src="https://github.com/user-attachments/assets/47d5cff4-1482-4a51-83e9-2f4f2c08e559" width="600" height="400">
 
-**Etape 6** : Allez dans le dossier "etc"  
+### Etape 6 :   
+------------------   
+Allez dans le dossier "etc"  
 <img src="https://github.com/user-attachments/assets/1eb6a204-d189-42b1-8f32-ac9bc7a6caa6" width="600" height="400">
 
-**Etape 7** : Dans la liste des fichiers, trouvez le fichier "hosts"  
+### Etape 7 :   
+------------------   
+Dans la liste des fichiers, trouvez le fichier "hosts"  
 <img src="https://github.com/user-attachments/assets/36166d97-8497-4ead-8977-519ad49dbd05" width="600" height="400">
 
-**Etape 8** : Faites un clic droit sur le fichier "hosts"  
+### Etape 8 :   
+------------------   
+Faites un clic droit sur le fichier "hosts"  
 <img src="https://github.com/user-attachments/assets/22d8fc0d-bb2f-41ba-a937-838cef9ce250" width="600" height="400">
 
-**Etape 9** : Ouvrez le fichier avec un bloc note  
+### Etape 9 :   
+------------------   
+Ouvrez le fichier avec un bloc note  
 <img src="https://github.com/user-attachments/assets/35ea58b0-da93-4dd8-ae0f-4dd8703c90df" width="600" height="400">
 
-**Etape 10** : Tout en bas du fichier, notez l'adresse IP de la machine server (dans l'exemple : 172.16.10.5), appuyer la touche TAB (tabulation) et notez le nom de la machine (dans l'exemple : SRVWIN01)  
+### Etape 10 :   
+------------------   
+Tout en bas du fichier, notez l'adresse IP de la machine server (dans l'exemple : 172.16.10.5), appuyer la touche TAB (tabulation) et notez le nom de la machine (dans l'exemple : SRVWIN01)  
 <img src="https://github.com/user-attachments/assets/c88904ca-763b-4c33-8404-96cb35643399" width="600" height="400">
 
 
@@ -522,65 +568,103 @@ Pour finir, cliquez sur le bouton "OK"!
    **c. Installation Ultra VNC** 
 <span id="installation_ultra_vnc_client"></span>
 
-**Etape 1** : Ouvrez votre navigateur internet et tapez "ultravnc" et validez  
+### Etape 1 :   
+------------------   
+Ouvrez votre navigateur internet et tapez "ultravnc" et validez  
 <img src="https://github.com/user-attachments/assets/92428263-8020-4456-97b4-b35902d15d8d" width="600" height="400">
 
-**Etape 2** :  Cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com)    
+### Etape 2 :   
+------------------   
+Cliquez sur le premier lien (logiquement cela devrait être le lien officiel  https://uvnc.com)    
 <img src="https://github.com/user-attachments/assets/14d67231-38cf-4057-8e71-6e69f0b46207" width="600" height="400">
 
-**Etape 3** : Vous arrivez sur la page d'accueil du site   
+### Etape 3 :   
+------------------   
+Vous arrivez sur la page d'accueil du site   
 <img src="https://github.com/user-attachments/assets/6c52db49-cac3-4d9f-a982-400d9b9d272f" width="600" height="400">
 
-**Etape 4** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)
+### Etape 4 :   
+------------------   
+Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" (la plus récente à l'heure actuelle; il y a une version en développement mais nous nous contenterons de la dernière version finalisé qui est suffisante et fonctionnelle)
 <img src="https://github.com/user-attachments/assets/8a727397-2f57-4c0f-8aba-10d0e32400eb" width="600" height="400">
 
-**Etape 5** : Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :    
+### Etape 5 :   
+------------------   
+Descendez jusqu'à la section download et cliquez sur le lien bleu "download ultravnc 1.4.3.6" encore une fois  :    
 <img src="https://github.com/user-attachments/assets/0a1bf817-0272-4333-8cc3-6b0e2ffbc102" width="600" height="400">
 
-**Etape 6** : Vous arrivez sur une nouvelle page, Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
+### Etape 6 :   
+------------------   
+Vous arrivez sur une nouvelle page, Descendez jusqu'à voir ultravnc 1436 X64 setup, cliquez sur le bouton orange "Download"  
 Nb : Si vous êtes en 32 bits, séléctionnez la version X86, si vous êtes en 64 bits séléctionnez la version X64  
 Nb : Pour connaître l'architecture de votre PC:  
 Dans la barre de recherche tapez "Système", puis séléctionnez "Système Panneau de configuration"  
 Dans la nouvelle fenêtre qui s'ouvre vous pourrez voir dans la ligne "Type du système" si vous êtes en 32 bits ou 64 bits.      
 <img src="https://github.com/user-attachments/assets/e42457f6-0555-41b7-8c1a-f593ce08b6c6" width="600" height="400">
 
-**Etape 7** :  Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.  
+### Etape 7 :   
+------------------   
+Une fenêtre s'ouvre avec un décompte avant de pouvoir télécharger votre fichier.  
 <img src="https://github.com/user-attachments/assets/73638b1d-df07-49a1-8e54-8c71217a44cf" width="600" height="400">
 
-**Etape 8** : Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
+### Etape 8 :   
+------------------   
+Cliquez sur le bouton "I accept the above conditions", puis cliquez sur le bouton orange "Download"
 <img src="https://github.com/user-attachments/assets/971ef5dd-efb2-4c62-8a4b-7155a24c8b7b" width="600" height="400">
 
-**Etape 9** : Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("Téléchargements"),Une fenêtre s'ouvre avec votre exécutable      
+### Etape 9 :   
+------------------   
+Une fois le téléchargement terminé, ouvrez votre dossier où est téléchargé votre executable, dans l'exemple ("Téléchargements"),Une fenêtre s'ouvre avec votre exécutable      
 <img src="https://github.com/user-attachments/assets/a1cc74ab-c1e6-4005-a0e2-ba3780a280b7" width="600" height="400">
 
-**Etape 10** : Faites un clic droit dessus et cliquez sur "Exécuter en tant qu'administrateur"  
+### Etape 10 :   
+------------------   
+Faites un clic droit dessus et cliquez sur "Exécuter en tant qu'administrateur"  
 <img src="https://github.com/user-attachments/assets/491d78a5-802b-4b91-8226-2959b7fcccec" width="600" height="400">
 
-**Etape 11** : Cliquez sur "OK"   
+### Etape 11 :   
+------------------   
+Cliquez sur "OK"   
 <img src="https://github.com/user-attachments/assets/2e69adb2-2753-42ad-a18f-81eb7a909a79" width="600" height="400">
 
-**Etape 12** : Cochez la case "Je comprends et j'accepte les terme du contrat de licence, puis cliquez sur "Suivant"  
+### Etape 12 :   
+------------------   
+Cochez la case "Je comprends et j'accepte les terme du contrat de licence, puis cliquez sur "Suivant"  
 <img src="https://github.com/user-attachments/assets/5765ecb4-dc74-4268-abf4-05da6e7c4b95" width="600" height="400">
 
-**Etape 13** : Cliquez sur "Suivant"    
+### Etape 13 :   
+------------------   
+Cliquez sur "Suivant"    
 <img src="https://github.com/user-attachments/assets/7fb10a22-8dfa-4335-92a8-74467cfb1458" width="600" height="400">
 
-**Etape 14** : Cochez la case "UltraVNC Server puis cliquez sur "Suivant"    
+### Etape 14 :   
+------------------   
+Cochez la case "UltraVNC Server puis cliquez sur "Suivant"    
 <img src="https://github.com/user-attachments/assets/63ff6a42-0634-4b4d-9993-f24f18ee5cf7" width="600" height="400">
 
-**Etape 15** : Cochez toutes les cases  
+### Etape 15 :   
+------------------   
+Cochez toutes les cases  
 <img src="https://github.com/user-attachments/assets/54eba6ea-4357-45fd-8ccd-fd40f3e0d9d1" width="600" height="400">
 
-**Etape 16** : Cliquez sur "Installer"  
+### Etape 16 :   
+------------------   
+Cliquez sur "Installer"  
 <img src="https://github.com/user-attachments/assets/c7ae6434-4a9b-47a9-bcf9-f9e5613b09b1" width="600" height="400">
 
-**Etape 17** : L'installation se lance  
+### Etape 17 :   
+------------------   
+L'installation se lance  
 <img src="https://github.com/user-attachments/assets/6d4ade7d-1be6-4832-9a98-6bc9d86c9165" width="600" height="400">
 
-**Etape 18** : Cliquez sur "Suivant"  
+### Etape 18 :   
+------------------   
+Cliquez sur "Suivant"  
 <img src="https://github.com/user-attachments/assets/c5e460e2-9c99-4fa1-81dc-6ee0fb983420" width="600" height="400">
 
-**Etape 19** : Séléctionnez "Oui, redémarrer mon ordinateur maintenant", puis cliquez sur "Terminer"    
+### Etape 19 :   
+------------------   
+Séléctionnez "Oui, redémarrer mon ordinateur maintenant", puis cliquez sur "Terminer"    
 <img src="https://github.com/user-attachments/assets/2ee889b0-0ba5-4819-9875-3bf22d7744dc" width="600" height="400">
 
 
