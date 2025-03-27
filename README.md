@@ -34,7 +34,7 @@
 | -------- | ---------- | -------- |
 | [Mamadou](https://github.com/DRAME1991) | PO         | -    Création Du Backlog - Organisation de la première présentation |
 | [Florian](https://github.com/Juverios) | SM         | -    Mise en place de la Documentation et Organisations du Sprint 1 - Gestion des droits d'accès d'utilisateurs  |
-| [Johnathan](https://github.com/TheHorusLab) | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_ - Paramétrage **UltraVNC** |
+| [Jonathan](https://github.com/TheHorusLab) | Technicien | -    Installation de **UltraVNC** _Serveur_ --> _Client_ - Paramétrage **UltraVNC** |
 
 
 **Sprint 2**
@@ -43,7 +43,7 @@
 | -------- | ---------- | -------- |
 | [Mamadou](https://github.com/DRAME1991)  | SM | -  Organisation du Sprint 2 - Mise en place de la présentation finale |
 | [Florian](https://github.com/Juverios) | Technicien | - Documentation du USER_GUIDE.MD & README.MD  |
-| [Johnathan](https://github.com/TheHorusLab) | PO         | - Documentation de INSTALL.MD  -  Vérification des attentes du client pour le Projets   |
+| [Jonathan](https://github.com/TheHorusLab) | PO         | - Documentation de INSTALL.MD  -  Vérification des attentes du client pour le Projets   |
 
 # ⚙️ Choix techniques
 <span id="choix-techniques"></span>
