@@ -151,8 +151,24 @@ _(EX: Ici on choisi l'ip de notre machine client connecté en local)_
 
 (EX:Prise de contrôle de **PowerShell** et du **ServerManager**)
 ![controle_server_et_powershell](https://github.com/user-attachments/assets/8fb16d5a-cc9e-45d4-9d88-4b1c6d4721fb)
+------------------
+- Le presse-papier est pris en charge lors de la connexion. Vous pouvez donc transferez des fichiers/dossier ou même du texte via cette fonctionnalité. Nous allons copier un dossier sur la machine **REMOTE** et le coller sur notre machine **Hôte** :
 
-# 4. FAQ
+
+(**EX: Pour transférez un fichier/dossiers faites un clique droit(ou CTRL+C) et séléctionner copier(Copy)**
+![Copie_fichier](https://github.com/user-attachments/assets/3ebe62d0-e753-40a4-b958-c68c3df19d9d)
+
+(**Puis faites un clic droit vers l'endroit ou vous voulez copier le fichier/dossier puis séléctionner coller (ou CTRL+V)**
+
+![Coller_fichier](https://github.com/user-attachments/assets/148b5080-aff0-41b5-b18b-fcad96d00b4f)
+
+(**Dossier bien transférer entre les deux machines**)
+![fichier_transferer](https://github.com/user-attachments/assets/508e6cc0-a632-46c8-bb77-20ee69578e48)
+
+**Note : Le Bureau à distance permet le transfert de dossiers vide contrairement à UltraVNC**
+-----------------
+
+![65a65f61a5dc0fccb6a01af8_FAQSINEA](https://github.com/user-attachments/assets/f8b4fb51-678c-4d9c-b9c6-a955b5ee453f)
 <span id="faq"></span>
 
 1. **J'essaie de tranférer un dossier avec UltraVNC mais j'ai un message d'erreur**
@@ -165,5 +181,5 @@ _(EX: Ici on choisi l'ip de notre machine client connecté en local)_
 
 3. **Est-il possible de se connecter à distance sur des systèmes d'exploitations différents ?**
 
---> Oui c'est possible.
+--> Oui c'est possible. Seulement il peut être nécéssaire de télécharger des logiciels tiers pour permettre la télé-assistance ou un fonctionnement optimal.
 
